@@ -439,6 +439,91 @@ h[0].style.display="block";
 	 setTimeout(hides, 800);
 }
 
+
+function smell(){ //generates answer based on storage of y
+var scent;
+var x= localStorage.getItem("y");
+switch (x) {
+  case "1":
+    scent = " ";
+    break;
+  case "2":
+    scent = " ";
+    break;
+  case "3":
+    scent = "   ";
+    break;
+  case "4":
+    scent = "  ";
+    break;
+  case "5":
+    scent = " ";
+    break;
+  case  "6":
+    scent = " ";
+    break;
+     case "7":
+    scent = " ";
+    break;
+     case "8":
+    scent = " ";
+    break;
+     case "9":
+    scent = "scent";
+    break;
+     case "10":
+    scent = " ";
+    break;
+     case "11":
+    scent = " ";
+    break;
+     case "12":
+    scent = "";
+    break;
+     case "13":
+    scent = " ";
+    break;
+     case "14":
+    scent = "Smells like nothing.";
+    break;
+     case "15":
+    scent = "Smells like nothing.";
+    break;
+    case "16":
+    scent = "Smells stinky.";
+    break;
+    case "17":
+    scent = "Smells like citrus.";
+    break;
+    case "18":
+    scent = "Smells intense and like urine?";
+    break;
+    case "19":
+    scent = "Smells sweet and intense.";
+    break;
+    case "20":
+    scent = " ";
+    break;
+    case "21":
+    scent = " ";
+    break;
+    case "22":
+    scent = " ";
+    break;
+    case "23":
+    scent = " ";
+    break;
+    case "24":
+    scent = " ";
+    break;
+    case "25":
+    scent = "";
+    
+}
+var smelly = document.getElementsByClassName("smells");
+smelly[0].innerHTML = scent;
+smelly[0].style.display="block";
+}
 function hides() {
 var h = document.getElementsByClassName("answer");
 h[0].style.display="none";
