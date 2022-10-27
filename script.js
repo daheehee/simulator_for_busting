@@ -433,10 +433,109 @@ switch (x) {
     powder = "Magnesium";
     
 }
+
 var h = document.getElementsByClassName("answer");
 h[0].innerHTML = "This is " + powder + "!";
 h[0].style.display="block";
 	 setTimeout(hides, 800);
+}
+
+
+
+function check(){ //checks guess
+var powder;
+var x= localStorage.getItem("y");
+switch (x) {
+  case "1":
+    powder = "Sodium Acetate";
+    break;
+  case "2":
+    powder = "Sand";
+    break;
+  case "3":
+    powder = "Calcium Carbonate";
+    break;
+  case "4":
+    powder = "Vitamin C";
+    break;
+  case "5":
+    powder = "Salt";
+    break;
+  case  "6":
+    powder = "Sugar";
+    break;
+     case "7":
+    powder = "Flour";
+    break;
+     case "8":
+    powder = "Cornstarch";
+    break;
+     case "9":
+    powder = "Gelatin";
+    break;
+     case "10":
+    powder = "Alka-Seltzer";
+    break;
+     case "11":
+    powder = "Yeast";
+    break;
+     case "12":
+    powder = "Baking Soda";
+    break;
+     case "13":
+    powder = "Calcium Sulfate";
+    break;
+     case "14":
+    powder = "Water";
+    break;
+     case "15":
+    powder = "Hydrogen Peroxide";
+    break;
+    case "16":
+    powder = "Vinegar";
+    break;
+    case "17":
+    powder = "Lemon Juice";
+    break;
+    case "18":
+    powder = "Ammonia";
+    break;
+    case "19":
+    powder = "Rubbing Alcohol";
+    break;
+    case "20":
+    powder = "Copper";
+    break;
+    case "21":
+    powder = "Zinc";
+    break;
+    case "22":
+    powder = "Tin";
+    break;
+    case "23":
+    powder = "Aluminum";
+    break;
+    case "24":
+    powder = "Iron";
+    break;
+    case "25":
+    powder = "Magnesium";
+    
+}
+
+var h = document.getElementById("guess").value;
+if (powder==h){
+var g = document.getElementsByClassName("guess");
+g[0].innerHTML = "Right answer!";
+g[0].style.display="block";
+	 setTimeout(hides, 800);
+}
+else{
+var g = document.getElementsByClassName("guess");
+g[0].innerHTML = "Try again!";
+g[0].style.display="block";
+	 setTimeout(hides, 800);
+}
 }
 
 
@@ -524,8 +623,11 @@ var smelly = document.getElementsByClassName("smells");
 smelly[0].innerHTML = scent;
 smelly[0].style.display="block";
 }
+
 function hides() {
 var h = document.getElementsByClassName("answer");
+var g = document.getElementsByClassName("guess");
 h[0].style.display="none";
+g[0].style.display="none";
 }
 
