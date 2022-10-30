@@ -568,7 +568,7 @@ switch (x) {
     scent = " ";
     break;
      case "9":
-    scent = "scent";
+    scent = "";
     break;
      case "10":
     scent = " ";
