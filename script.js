@@ -63,19 +63,19 @@ function fizz(){ //generates HCl results
 var reactionAcid;
 var x = localStorage.getItem("y");
 if (x==3 || x==10|| x== 12){
-reactionAcid = "https://imgur.com/fJcJpQ0.gif";
+reactionAcid = "https://lh3.googleusercontent.com/g9JcWi-zMbbIacD-9WCmJBSXs5wvJltC4Vnda2zjGLcf8OIMjDzDFDjbHrAMHsEwMQ2eZlhWijJKps5fgK5TZtnNg0RhBRva2VO2yu4uvCRb2Ey-g2P8h9Y1UX_3g5Fakxwc4lUY7g=w2400";
 }
 else if (x==23 || x==22){
-reactionAcid = "https://imgur.com/5xeRZUN.gif"
+reactionAcid = "https://lh3.googleusercontent.com/HyIACo_AFLhZNCfQ2xXpKeTI9wHzncTkxCnErAnK6hsQGZpUNUNp5m4XM_3f4bhLoeLXVKrw1vH_o_CjXS64rk5PkYk69YGuNAhDhdx_CRyTlgZqSoKZ5flq9jmr9yZ96sMv3SG16w=w2400"
 }
 else if (x==21||x==24||x==25){
-reactionAcid = "https://imgur.com/mouJrZA.gif"
+reactionAcid = "https://lh3.googleusercontent.com/lRYQ_M87c_Jh2hpFRrXqXZ6BuoC1O4ihAXSUDSorB7kEurowLVLfHHQjPX-jqx93hJG3-IV5ecRMpab43vO7C1QrVCJpaw8FwUUnUgaYFxaawUUijDVZsp8qv3-K8Buc-yRXQvQq5g=w2400"
 }
 else if (x==20){
-reactionAcid = "https://imgur.com/sGLCyL8.png"
+reactionAcid = "https://lh3.googleusercontent.com/3yvnwdM3GWXpNCO7GwV44ueaNSNDMD7UbMvLE3kMbMjsXpnIVePOkWTGjygnZy4N5UdVHMr23hWYQQT8yoD6ZTLT2gw5LXclriwnui6Kg9PSu-3dcvauhPFYQG5KCaYqVxMyF5DzUA=w2400"
 }
 else {
-reactionAcid = "https://imgur.com/HRlVa7d.png";
+reactionAcid = "https://lh3.googleusercontent.com/IYDgpCaCUDRXAoxAAxY2tOOgV2aMG-deLSIk4E6nFKtl79EMw6bW7fFkfAig9fDfLOWf9z4OqEun8NsKZrD5qqiQ62Eh0o9WvYRIatg3SmIHXtI5mOEPlQNQLJGBUAeTLEczAu9kOA=w2400";
 }
 document.getElementById("acid").src= reactionAcid;
 }
@@ -85,31 +85,31 @@ function water(){ //generates water results
 var reactionWater;
 var x = localStorage.getItem("y");
 if (x==10){
-reactionWater = "https://imgur.com/fJcJpQ0.gif";
+reactionWater = "https://lh3.googleusercontent.com/g9JcWi-zMbbIacD-9WCmJBSXs5wvJltC4Vnda2zjGLcf8OIMjDzDFDjbHrAMHsEwMQ2eZlhWijJKps5fgK5TZtnNg0RhBRva2VO2yu4uvCRb2Ey-g2P8h9Y1UX_3g5Fakxwc4lUY7g=w2400";
 }
 else if (x== 3 || x== 7 || x== 13 ){
-reactionWater =  "https://imgur.com/XjGhWFH.png";
+reactionWater =  "https://lh3.googleusercontent.com/4GuSleyy6v9LmKf0EWpxHN1pkglo7pZWXTYLt_8soHa74sdfW8GTqllzGbpOo5b9R6smsBlD569UgRWPgBQj390f0t7PjTPrT9r2UUNbfsJa7TB8cbcXCf-RR1REJqnu03ulbykpfA=w2400";
 }
 else if (x==2){
-reactionWater= "https://imgur.com/2mPmbFK.png";
+reactionWater= "https://lh3.googleusercontent.com/h2oZ-Rfc6d8YZ9BQNfEWtzW3xxd7ESAS8XMBckxpm5xEUcRNDlqhBAcj6w_-o-z1hTyY4Z0iAwnn_IFJXgrrdvposedb6Kt6J5t_oJeYGJ19jS1JbiWWP1MZrP3KJRfEZZGTWpzoZA=w2400";
 }
 else if (x==8){
-reactionWater= "https://imgur.com/HRlVa7d.png";
+reactionWater= "https://lh3.googleusercontent.com/IYDgpCaCUDRXAoxAAxY2tOOgV2aMG-deLSIk4E6nFKtl79EMw6bW7fFkfAig9fDfLOWf9z4OqEun8NsKZrD5qqiQ62Eh0o9WvYRIatg3SmIHXtI5mOEPlQNQLJGBUAeTLEczAu9kOA=w2400";
 }
 else if (x==9){
-reactionWater= "https://imgur.com/3wZ80DU.png";
+reactionWater= "https://lh3.googleusercontent.com/fElE8LK2lkGa077Q3tyIcIyhz2inJT7B8oad0QW1T9E96_OY9igUK7hSSJyV43WSENEZsZhp9keCdvkexdhSOl05XDIAem4W_vwtXDfXdo3vAi_VlHQIa1gf_2haayE7XD0UMy7AQQ=w2400";
 }
 else if (x==11){
-reactionWater= "https://imgur.com/yEmOWbj.png";
+reactionWater= "https://lh3.googleusercontent.com/EcuFhToH6X7xK_jR_5Qcj6LN4BUDzXhPLzZFM6IzL0EQXPrMb42dK12OjMvEeyc44Hqtacau7cn4qt3W9S8qm-M_pY_q-uHDw6TF5UoqbHyfVVeqXc-T72pgLzH5YMDjDuL3epN-zQ=w2400";
 }
 else if (x==25){
-reactionWater = "https://imgur.com/mouJrZA.gif"
+reactionWater = "https://lh3.googleusercontent.com/lRYQ_M87c_Jh2hpFRrXqXZ6BuoC1O4ihAXSUDSorB7kEurowLVLfHHQjPX-jqx93hJG3-IV5ecRMpab43vO7C1QrVCJpaw8FwUUnUgaYFxaawUUijDVZsp8qv3-K8Buc-yRXQvQq5g=w2400"
 }
 else if (x==21||x==24||x==22||x==23||x==20){
-reactionWater = "https://imgur.com/sGLCyL8.png"
+reactionWater = "https://lh3.googleusercontent.com/3yvnwdM3GWXpNCO7GwV44ueaNSNDMD7UbMvLE3kMbMjsXpnIVePOkWTGjygnZy4N5UdVHMr23hWYQQT8yoD6ZTLT2gw5LXclriwnui6Kg9PSu-3dcvauhPFYQG5KCaYqVxMyF5DzUA=w2400"
 }
 else {
-reactionWater= "https://imgur.com/nJGTEI9.png";
+reactionWater= "https://lh3.googleusercontent.com/8QLEfLYixqZaRptUWjB9MF3Kb5BbGU3B17f4Cj_PPBSh6G_stuK9njV0KbTjP5QFboNv9aRzbuL_DUkELKDQlLALUW_ZhDuaObIGPmfA0EU0IsX-DsLhDFxFmL3I81HgjcGeYkYx2w=w2400";
 }
 document.getElementById("water").src= reactionWater;
 }
@@ -119,16 +119,16 @@ function iodine(){ //generates iodine results
 var reactionIodine;
 var x = localStorage.getItem("y");
 if (x==7 || x==8){
-reactionIodine = "https://imgur.com/Lw6QTYi.png";
+reactionIodine = "https://lh3.googleusercontent.com/8VoaGAQoM3cfgR8SCO2z7_dEFgltBuRkiMNtmH4jZwbuWlsH3ES6cKeq_rTvaGOBwfmBHiPSkXKbn69B2gvCVjMttRN8T27jJRZV2J--cnBu1xV_B7Wu6NhBbFs6nFwbu5H1Fde1mQ=w2400";
 }
 else if (x==4){
-reactionIodine ="https://imgur.com/nJGTEI9.png";
+reactionIodine ="https://lh3.googleusercontent.com/8QLEfLYixqZaRptUWjB9MF3Kb5BbGU3B17f4Cj_PPBSh6G_stuK9njV0KbTjP5QFboNv9aRzbuL_DUkELKDQlLALUW_ZhDuaObIGPmfA0EU0IsX-DsLhDFxFmL3I81HgjcGeYkYx2w=w2400";
 }
 else if (x==15){
-reactionIodine = "https://imgur.com/zuxiNaF.png";
+reactionIodine = "https://lh3.googleusercontent.com/E8lW1SoIgGu62krcAR_uMGh0QyHTNAiKsBn30oN0PfuJgwBjYIwVcS3XB1-7s1RqQpn-0AvZBlPx4azFlf9J7KJ9IbRWlNLAiwLiqIds8_TIepFCfRJ-1nePl0M8nBZV3tGmBBhejw=w2400";
 }
 else {
-reactionIodine = "https://imgur.com/Qcr3JL3.png";
+reactionIodine = "https://lh3.googleusercontent.com/agA-72E-oiUtW6HdDE0qdceCztJtVBFLmV3qQz3No4pADcb12HQAtxcXNpsSzAMssbHcyFdbKbtfslW_Znofv9B4zZxGLPL5y7E5iK49DdCw70tVAzhl6jaHuIhoSMTOKcC4m8Uqpg=w2400";
 }
 document.getElementById("iodine").src= reactionIodine;
 }
@@ -150,20 +150,20 @@ document.getElementById("magnet").innerHTML = reactionMagnet;
 function ph(){ //generate ph paper
 var reactionph;
 var x = localStorage.getItem("y");
-if (x==1 || x==8 || x==12){
-reactionph = "https://imgur.com/2b1bjCJ.png";
+if ( x==8 || x==12){
+reactionph = "https://lh3.googleusercontent.com/0HyGDWRkYWzBqUXYw8bm1xoHgN64ZCvZobYpVvot6WIx28nlekzUkhl1hycPzaBxnzhweGXvpkaj3Sc1gWxzO2W3m8xb9HwImpdCh4rP8lYLwkjeehyxRjoEAH3uQm6jvRgufu2MwQ=w2400";
 }
 else if (x==5 || x==6 || x==11||x==14||x==15){
-reactionph = "https://imgur.com/2b1bjCJ.png";
+reactionph = "https://lh3.googleusercontent.com/i2qO3bCWItc_4b9Yldo9rboDa2MTF94nWp1FDb2ihti39aLpEij5F3twLTkVvvf9r4actI4qf7DAgVkS1ZLYfDArhUfmEEz1bld145e_bBt2ZQMjfYBjMWWJ9kH7yiXQrz5glUTvew=w2400";
 }
 else if (x==4||x==17||x==16){
-reactionph = "https://imgur.com/AbR8CDi.png"
+reactionph = "https://lh3.googleusercontent.com/KQc50J1It5eCDVE63zaXoaUNouLlAkIp-66YLFZ3ItgxXNTsIhjA1gGC8MDwlYKERZAgBl9NBlhkcCjIHj152KV3i4pr6YH8CNG6xCPleCKBEkQZlnHGxmL1dtjMVesYlJtFqfEcRA=w2400"
 }
 else if (x==18){
-reactionph = "https://imgur.com/jIyM8pu.png"
+reactionph = "https://lh3.googleusercontent.com/SuGAJDXtQP5EM_hV2re5WrLdn4tPd0x6OnpCeT14zic3pLiEPFY1kXLF2luUZPD0Q02qsHOaqr-XgxT_dh9PSuVYVeoOoqY5yaWY39iZqY2wE0XGpgjx9npNCk9Wy5Q0ZHZ1hkIDsQ=w2400"
 }
 else {
-reactionph = "https://imgur.com/1qa1PWj.png";
+reactionph = "https://lh3.googleusercontent.com/IitHSE5sRVPZeIC24v8XuriU7rJtxbdhI-mOD9HMtU-lTloO-SwGWCRWH4noubhWsRZXwoZVwKZCx0bPnTOZw_Cuuu4vsAf3OOaXLEUnU5cVyFlAEMQzEhZxtqTNR4KmPYTbYhlCKg=w2400";
 }
 document.getElementById("ph").src= reactionph;
 }
@@ -175,71 +175,71 @@ var x= localStorage.getItem("y");
 var z =  localStorage.getItem("analyze");
 switch (x) {
   case "1":
-    powder = "https://imgur.com/LN4p4FP.jpeg";
+    powder = "https://lh3.googleusercontent.com/4wf-p53-AIOvuj02VtNuaIOECBkEiRJERlkdHhHbTWw8nyO2Q-ah2XO3TSKQiRQWb_wB5ZR5z-t9xBzx0YKrduLJc5RVVM_AC1Jc6xFpNcBv0jcXsDDm4c_uHoteb1wJonkpMfcNsA=w2400";
     break;
   case "2":
   switch (z){
   	case "1":
-    powder = "https://imgur.com/5BVWmte.jpeg";
+    powder = "https://lh3.googleusercontent.com/N9Xx7JgzzXg7fnxlIxWB0XCiNWs8kB--zkh_0HTZtqqdNBnUCoAisjFdRv3GO5kdZLns-gXpfrPe_sMD5-o9naBRlaVELX-A-bD9PKpxCx6l465iXR2bxjpGrHk5eoBWSff_TrxUZg=w2400";
     break;
     case "2":
-    powder = "https://imgur.com/qkWO18Y.jpeg";
+    powder = "https://lh3.googleusercontent.com/b85F6HS7QgbcvcO-9UZHSDWk5bkkgOG13dIF1kZkIuvgpVpTMHOY7hhfJHRPkqkGcqusKSODxpIfSsB0LyRMlxHt0F3aUiDm6_CtO-2Tqy6CTUhcfxMGseT2PwPC4PoNXx4LV9U-HQ=w2400";
     break;
     case "3":
-    powder = "https://imgur.com/r80W5R3.jpeg";
+    powder = "https://lh3.googleusercontent.com/J_IReAxGANlqcZ71DXhnGlFLkgIZYfei4EZ6dKe8Fxsy9qkTFLOdAnH0VBs-uLW7aoCVvVY82JHNC8hqodY9PKrW_DZxwQVx3wVAdFfgqtp3rRak_mHLJZmWwRg2_f1PQefeVzqFFg=w2400";
     break;
     case "4":
-    powder = "https://imgur.com/sk9LNsF.jpeg";
+    powder = "https://lh3.googleusercontent.com/RAriVUAzLNRfLMc-1-Tshmpafg-qjutPs8ZBHVOYC4SKFRM5Oy3U7xaFgUKmzX82vNmT3ezlbSwMegHqxiingDg7H5TpnrrOq0iMhuFfx6U4WZxI97TM8WU8abFNoQxeSIp9oaT2pg=w2400";
     break;
     case "5":
-    powder = "https://imgur.com/TulJm8y.jpeg";
+    powder = "https://lh3.googleusercontent.com/hb56U3oIDGw98g4u9rF3SJz3Bnk2I6nC-DgwP7R_04dNPbeiD_Ut5PdB2dCMc5KtoTpjOIZTSTkKHiTgkots_uDpr3-za_sZyWqi9OuOMQdZw0j50sUyYSdOPnCKt87NTZqIqmOU8w=w2400";
 	break;
 	}
     break;
   case "3":
   	switch (z){
   	case "1":
-    powder = "https://imgur.com/r3XW9Gj.jpeg";
+    powder = "https://lh3.googleusercontent.com/IHue7W4hcbnwns1LzUcoBQlhjzlYTWHl9jBbdDUAa974Pm2M9H7xZrONbObVtjkMb6oRzXdPUcYmH0iPbfJSLCuhcbJHwqMIaHRK9MUtgIBSvRO338yMTPpjiXv4WwhxPF6yeZohYA=w2400";
     break;
     case "2":
-    powder = "https://imgur.com/y1ekS0r.jpeg";
+    powder = "https://lh3.googleusercontent.com/PfoeCUo347lSSKblcOsPmCVnMnv4tm0x56IueYuvKJr8GSisypbB1IeIjN5UcpdEb-8WiS81KsaTjrz2819Ke4au6h4rzBMsj3E_9cFT0Qr6dlnhKuFJcUw9SY8JbjVNmGqL2sv1fw=w2400";
     break;
     case "3":
-    powder = "https://imgur.com/dFwegbX.jpeg";
+    powder = "https://lh3.googleusercontent.com/LMO6FU1M-9Albe2hZ1FQaZuFB7bXOBGGXFEA3y7lXR6PLrbKbohT2qAG7x6Z3-cZ0jZmVCQDmSJnq4JlfPbvq10G641RWnyAyyC-3fRzYrDW-flXWuNPy4rKQCWI65T34S6OkQKUjg=w2400";
     break;
     case "4":
-    powder = "https://imgur.com/5jYLUQO.jpeg";
+    powder = "https://lh3.googleusercontent.com/lco5lKJo2fQ3KyjA6b757EwRm6Lf7LGKYw3vTYstdrhVPizR9r6Z-DZ3HiK9txc6b9_6S_IuStISrkE593sI32gUfQhtwW1Kg49DfNojdKcyQWSvQktrfLhi3fpeCovjgHDbCAQY2g=w2400";
     break;
     case "5":
-    powder = "https://imgur.com/q3ANdnS.jpeg";
+    powder = "https://lh3.googleusercontent.com/PdBJgf9IGtaaGr499eXt6Fk1_Kw7Mp2eEznfF0qJ_kZluwF7ybK_VMIdd2tU3mmaQ4DBCOqMCZdq2JDd6QdmkOA3oDlr7DnlwR4oYBWZZBq884_BrrakmwHWScILfkVcA7_KI-FjSw=w2400";
     break;
     }
     break;
   case "4":
-    powder = "https://imgur.com/MhyVBFL.jpeg";
+    powder = "https://lh3.googleusercontent.com/Mn-m4z3_83mnO2XB96SAppeWRVt5YUpdcZnppar5E553Ga1yQNIvSDRkRTyoBSkElQ9AOEJMXFjODGuaLuGo5ATFcqHHBL_aI1R5J7yq7q-SJdO-e2uQL1nSU0zyriekvTBDIUzyhQ=w2400";
     break;
   case "5":
-    powder = "https://imgur.com/xyNmMFQ.jpeg";
+    powder = "https://lh3.googleusercontent.com/vHs0tCttgm3O4pbnT8Rqx-vbGlk6RuYYgqgkqqwT9iapYXOexuYaCKcQSKdWVp8JexnCmtrOsRGxuTSvqzNDkRNSFGh2HT2yt_-twL6JNxDoyRUdTUJv7Cg5ycQogESfN8XC2mZHAw=w2400";
     break;
   case  "6":
-    powder = "https://imgur.com/9KXpZ4t.jpeg";
+    powder = "https://lh3.googleusercontent.com/aRhpyaA5qPsbgTO_J16gT__4z_jYXzQjGbgQZwYObiQ4WHfcZL0rlrRDxVTxF0eUchZc5cB4kFESuSs5rT3qXohbkIo7GOrRFc360G4zh4PGXTbS-xl3ZoaedlRM6CuppeHQhnT-6g=w2400";
     break;
      case "7":
      switch (z){
   	case "1":
-    powder = "https://imgur.com/zNFnJHb.jpeg";
+    powder = "https://lh3.googleusercontent.com/GgCge7vWOmhsKE-4XcSyhfFP8z_R67q-X2vsgnCmBFra9O1OGH_Hn98SviaSfGMeDQI8WRed2XTdtN22DTtzVoj9Q7-tlrvnbVBPHgMN1OsM4SHwADR5x5nOwzl_xcrvAMdM2H9vBg=w2400";
     break;
     case "2":
-    powder = "https://imgur.com/dbPQjbN.jpeg";
+    powder = "https://lh3.googleusercontent.com/pw/AL9nZEUvTYrUSHIWqgXCJLJT016tTzXE7IO3BK03gO8NiiEjdPoWfM5qD9L2NVLORlDb8lPQW9A7j5xqyNXRfwzq5KseQZG5wJO_8xoGp2KGUlQ9xPqSUT3bbXzI-Tk7TZqW_Exsz-k3a61tqua8Pub-ongy=w194-h132-no?authuser=0";
     break;
     case "3":
-    powder = "https://imgur.com/slFkoIL.jpeg";
+    powder = "https://lh3.googleusercontent.com/06TRj1EKe92z9-05Pak_I48BPHEkWHli2A7mQ9T06XiguYmGXOH0xWdUk5PD2MLHnWB1jGNtPoFCRvTo_h1RaAOZSVao_nvcvM4MK82Dupdr3qwB_INLkIhkhLsVcc6_Gsl2akte811vpajEjocX0sV_kL0LdvtfOeml04opCdSlEkXEd2D4LB92HVbaRZZ_EA6JwmX27ED-SOTP79oBYKsiktOo1pnmNJeNxuo0PH9NcY5TO_HUyziZ44hwnx7lG4bvMcj4vE0wyPN7XSn3UFRuyV5JOPSE7NvhqtRV53A2dDSFipfgoEBIHnJnJG-MhepvFkx0Umkn0A0NHOXYAE4IZdRe9v2dPgS-7gmci8Dh---roFWzLvXrVPoLhyeYB25ydnjJtJk4y6T0UU7zIupxLB0-I5m78WrHJweFks_sAVBvU5WX0AlvOpTOir04B0WiJvkfCTfvrI2L6kjwFS0YfUaA8MGuLZ4Q-bT66PHKVedjPe7jSR9-dDw9YHO7gwB8AllwC7GD4kXyrD0XhRPyEDUPbohHWA59AlKXFbtIguxqMYlGe_8sGrIJybE40OaZWfSkjNd7aAANwtSM3sdwt_d5tg8ZchZCKyKjenqaU_oKriCyU9iCQJzlQuaXG7jUl1os_3CwnDG2CoKyOPeloVef9ft3hJwCErSaPsVejoZFiyzkampEu2ktc1bt7eG-vmsG2jd_uMxURZ2LXLOAOXv_z5bpEeEsNadLCsc_N37wvM-G4SoMjPzgWhimkcu5k3hDjmY_97HUpRk8SF4IEJ1nBddEJEVBgyi6FnAprmN2uVP-3DL_4qC6CowpTAUGabTUsSFFBCz3P8PC-xXtGEmfM4QfaoWMKfi_pxEX0H5bcIMhfu2cu-RQqewj-8qYclzYIPnMQHasETKozIdXqXDMzN2F0ZIyTWvX6iUHpHX1gqLdwmPZ7CGP_SiHtTuzW9oIIBxQXmsVSNNWdXt6UaWJSCgXC-oZ_Pr7VuYEgpZ06sBNGbdVjQHmO-rsoNsCB3NacbEAIfet2u4M-cgAta4NpRJUl_DyIava-vFGRZqq2l8zcJyCMVFOAKaWzdAI9PZ0pX2v97OThzCsoQTn8Dwdu7ciy4kui2anTT6xQjyyxUticjO42JdbckBiACPDz6E3daF9xeshBeGynWwky6inGghCdhBM3eeU=w256-h236-no?authuser=3";
     break;
     case "4":
-    powder = "https://imgur.com/1OCj08K.jpeg";
+    powder = "https://lh3.googleusercontent.com/qpz8XsyrhGh1Q2UnxWeLNUxrfGkrD0QkEIbFKaRNNKx9kd5sVhwzJfHSz6eetBDNuzoYv7TjIDO82lVPZymJTLD2Zn83G7H8OtSeOiQpwil5aKXSfdpAEDmLa_43RC1S9uChqc52mDYMm1_zz85tczMXk6EGICHJtRNDsnM3sjU7yODiZFy0dPYZujYriMYeV9MAkUV1DkGe4bkRUruV4QqNJc1UP-_NxNFn-p4Q5gVgzEW7LfK2k-sXbuxw6IqcW9cAUVMyfp_ctMI-5ISjPfVNWXAqtuQdTEJ_Zg-Lb9ombOXEN0qR4V50w9xwn9OfcT-7_9JSHLgi9AbealWzOo2dgbaxaF1rd9tzC_RNbI32yCKq3-uLxDJU2hp5TdPZtZYdF7VVmoZo21p0XhukbFIJOU_W0bgT6xU0t2539K1kf8WgTocwOQzbbawqFm-zDLAxRoO_pB1kpCSdZvWzqD34cD3JAqKNV0KRJWuBRcJNISm8_Gsz5Fo-lLWTIdYcMT4OFYWP-oe_rb3loR_aRyebk91Lhmxrfstaty5FOew7fnJdqqy2m7N7HvQqPXdpcZrl7wujydKKjyNrmMdPoSUV_YtBXLO8hJZD9p0sIw1ZEJIjtKdcxF8XxXJsykHXe7ENRRUFEPYeWZ3sz8-_Lz8FjQq9v4jjKZ-nFyYBy9cCBD72RXQ_CsrxWBz4BS6syH5TkU7LU3TmThKcmc3-15oamTLufzSaYvuJbFIjx7P0rcmriKfkA2Y_q1d1xccj2trKnasjYPuNoss5mXzrefNzw4MawehHMjcP3vl2sFHnAXgMSHJPV6rRA3ETN7Yg3fqKyyVhqRytiBkLA8LtnrDg0orQxX2Fzn_vGHlgAQVH_94dd27fEf6nxNNxlTw4HQVSQ7TfLb551ts-GgedE2DkWdNvVBQztnfwxjBFwJLaPeN3qGbWH4LRw0RdNIUXEwi5JWq0Oyd-5BQb8SRBmLTyAGCFBScl2BhjK9VgIE84RALCMMPQ-Elp4pjSdN_Zt88dBbTTkKMYSW8PVe9Gh4CBCOWGWLo-tF0hb6qB40l-1z_7gszGHhh66SkUEAWH6FpTVJMWTkxvzDUfEZOe9YRJmrcr10QmaCtYFG665UUH9aot3f7Hq6ZlzqlWO3VKBIJddsUBp1-MXeOU8KXsEfXt5HrIEp0CKt0pJv_K=w266-h238-no?authuser=3";
     break;
     case "5":
-    powder = "https://imgur.com/rGcppsh.jpeg";
+    powder = "https://lh3.googleusercontent.com/GzmfxaZ1qxrRmKsqfEGeOYcWnDf2YGDZM03KA8_h2GnNLceDgY7_h5RhxLQq4fDt-7vsVa3uJImsxXqGHxY9wqPRjEUZluvlVvtu-dp-tsyduzwSLRG0rWYywVrDTyaqQHxntCT8mJ9eGbN_CzXfrEpa13iZcNvzH5LLYzm0pZRiKWktgKjbNd9EslRrLKRqsg0ggy99sfRSa-gqJzSec2B5wjq0ly_MkkDE3GDAp3P4fBrAqXwa3dtQTVc4DtIYs12eXawHMHMt6KynBnYwUs68bnh-2Llv1X693BmsVmLtpmAF2ASd1M42JMyE7LwTzl9YGDw28gcIKxFVtPhUZsQCN312vDnrshABVcaEirpEXd9esh1awXL7mglRO23P4OsPXMSn-FG9VHWLxISqZY5DdW2NiqRJthHxBXbgcLs54ZKAT0Mgmqtx3mtjWKWJGRuvxzVTqqdS2KEuhs-7nkhCV1wg1o63UZYj-NibDxLivf-ajXh6FgnuzD4lhByaU4Er1yDz0mlANHjftW1GIypOyVG-1BSjZojzXYp52quo_2Q3JvxLJzMo0BHzxrw1KN3u6moIiZW3KcUG4t8R1IwkaBxjOPu7R-kct6n8_CZqhgRXHSqKK3mKHnyTiWSJPwp_T5ZZOAP9QdrpkFmiXHj3LkvJ7mdH28JRSLn2kyZDjQYEDZZ58HFq1oKu5qYjzcR9PNXf13NWJW0cT4stIuLsmB1dKCh0dicTE9Gbwygudhs2Ds0n_c0I2y5aWAXCg6BAzbMOyfYX-_2AekCR9vRxV1oSpLqMAMehSCdTHzWEVZYd7B4aXG3M4DEFXAObt3KzN7aEoUms819V5rxjuhbi3aGilH6NjT_fzU-dAWGwWNbTVYdRvywcVaAMUZ-Y-Zbti2b1Tzt56yUiPXM8CtU9D2M5xcGcz9AgoP95i4ryCk07O38jPcgwSqOedadg-1F_rm7vHLKkqte-sgpBmc0dOjm8rtxNGPVVRzDTWJ8lQWBfGHr1Wox2AQCDIJ6S5o84ORKlpjP8ImtifBNCbGfx6wE0VMjpwZbfgPUOY274wSA_BFw0wHHEbXHoqta8V9m8pErQXFMFvBwDuMrm1OxNXe1REiyhvvA3qxmnXY1vEfw3V-3XHB-XNOG8DrWL_DpRqBgMTDMMk_NAWaKbB9HYYA3yGVZYPcbl5Knu=w1684-h1124-no?authuser=3";
     break;
     }
 
@@ -247,104 +247,104 @@ switch (x) {
      case "8":
      switch (z){
   	case "1":
-    powder = "https://imgur.com/5iKFKRL.jpeg";
+    powder = "https://lh3.googleusercontent.com/SD9_RLRLy4-dEJSyyQIZiK_f59Z8aURkQfjHzMund5-hD7a4dmyY5z3XW56c_gONiliinKQAAPme8nILXMIdlGmOM7LOVfbMYctNbqlC1TfmYGpHsl29eGvJqM0yb2WukL4WsL9CXym7eEz1NjuxqB2E-4M5g5SfIh1IlsQTNbLgM-xZ56roPsGWNQEKgUlYuEVkbs0_vk4QbJ8NAXmZYM_sKketsM6-96eH5aBmMyOp4wALTXGXHy0wfd-BYvvxdc69KP8-2xch03GoMbpjiZDmacM_d8uxfKSAggOTCY_PTw2-CbEY6cAwpelmUiGp6p6lPU_OHNL24GXsFxojUgNeTEgFQjN8YBcWs478fPQYJRz6VDX3D3s3XC__b2GICs2qXBkHm2J0WHI6QrKt1pxjW0Smm7EHg0TsX2wHtRhQRS5qpx1zUoIP062ZImJGnAU1xxpcBTqw5X5OwDsXa6Bf_l78QGku9uF-uGQTyNTfYkdLWlq_WI2agYBeYlZaemHitbq1S8m8b6hz9N-0CE6k_pLoSQgG-kfL094QLFfsiBVpTDUpB1fJoUohYNG0iMwTJPbyujFXWRzQV414RGZC8W7C0oTP6ZYqH_S88SDfkI80wRrs-FCOf2_6kjOqILXk7KV7Qp2DElWhDTxFj4cuyxwSeX0-GK62YIxGae0vLbmuLaXDdTYpRTe4cfJ5lMfpDzI-wQk2hdVNK9sb-t2MxRjWFi03k14xKirHqiKIp8NxZq5E4xn6UlouFE_btXSOKr3O7SDKjv21f0CObU5CSKKVp7VnqmuLjm8MyNS0zvO-LmX67NtfzmKbQxgT_3zprXaaj5xBw7-kVtsfkpZsgM8aXGwyL7viz4uRDFF8rsQJSzD1BqG3eM6aVoO_xAp5W1BpLUZHhVkQ53mhqM2G_a587hcnBXmr6xD_xzlVm2T-pmQiNOKZJX5piFiDHAMxf464kM00XXtiAqd9uMD77oYvGv-bwylsYEDAj1RCo0lnm3uGG9UEzElh3DHidObqM8HjUM_6vBAaWScHEAJB5StcbtkS9quWRin37dGpOvn0jbZXrfm6iPBAustbldvV0p6yNAKNcSRCxwmIMTlSZHl-QmD6OmB_q1iw7TrqBBMqeTzvJp0P6MfN-SXuVDqD0fiH2tgoGq912HDDYN1bac9QK_DY8AalVN6U=w154-h88-no?authuser=3";
     break;
     case "2":
-    powder = "https://imgur.com/JYopL45.jpeg";
+    powder = "https://lh3.googleusercontent.com/kMhQiCwgkAny1tMCrQn5aY0TwVrX-Sy-47JWFfCW_dKQVJJjSvYraufuTE5jQKkC_NuwxQaPH11M_Chrqya8UceCBvb3bwBbcgZVKJDo7kjZzmkOKErqwtZAetJkqf-cM9aIgZFvRBfmFQJSW5wSawnR6wgLgP_dENeXA522PyLg8BT6R_gMmDTgJMJQULI_B_q4yyvH03yY5jF7G27D4w2TscRMQkDysTDvjFAPM4gyiiMRgKkOXtPt3yw14VSmqkBK1c8hYLHlp3sOKBV4rqxGoDWQq_KycRDEAgQVaRy6R24eGNanBeUBXsz4e6nuzBK_AVMhFxbJxzcEjhE3HXedcrQVj-jN84FYgj50eVj3VNrpmK7X7yR3Jw3NwdBNG7ZP5bQxQDF5GgxnwJ_SJK2Ldu5FRnuZAUVxIlz1tkRyN7Yxrk1R7EMC118DbORYQMfmi9a__7MshdCDl4MNSMjHDtSgevzHLpZwrk7baluqlzL0mzOToGgmbOvXA3ZQDrPctvhfYdMwZFjt4O-YAiOvYLg1xvNhuUAJSWWN3sG0sLYcoEJXBr0z9j7dYIXdcfO-mn-ufwDrWHYLORTFfcwVFXOua1_44T7-aYKQX-3vfsdYyus21BRLThVzBfpzGpAoKiqhsP9fJMpqx3ESL8lPAhYZgcyNgmHfngCMzq7rSnGKeQeV__-m4tvdY8cysSPxVU-Qig0IIuc0kiD07wftJH9-QnclQ4WFomNIWtYl1ajNUbohQ4UZ4oEF7rETxfJxSpREVJS764gzNsyqmVKSE3xK4t0VeHiO1KpYAXadPUxqyVaFrW_Hi7N2FdbSIRNr1w0Q6ZFyjzzhRBRhfgPfaxoqyqHXyDt8362KEPgvdtmNms-hbcz8cIGgMQCGS3jloeeba4NZe3Orb9o9CEHmQFAakwU7zgMPH8hrEPCEPayBKS0M75UxKmv2ExNKLxEerAe28pK4SAL7or8baOllFJnlWokOR7nTFpyW7zUDByYQP_-llNBbzUtLdMuy0GzALSYtJsoxTRXHcYH7GJAu5-jG_nviSbuyA-bFcNZO1xo0FFzcDwBu5BzMNItFRsOyebXrvGLqKbIu76y-gC12EkSYzSB1KkuygKd2MpLiBkbQvLUziRlnBshg55sofePbdS_Og8q8unKjoTw1qmF_A4yKBPabhcm7L-Eh=w358-h315-no?authuser=3";
     break;
     case "3":
-    powder = "https://imgur.com/iZ2F1AW.jpeg";
+    powder = "https://lh3.googleusercontent.com/6hPkAqTH_BrvuON4RfyxzsgS0JI1UMihgeJnzsAgaQfnBbN3T92242N_VujJu9yD7K6GkyTzY7juMJnGEkw01jqAg9RPBqtFilgiP0375T4zhBumiqSTeAMrF90RGnGP2WU6vf50h3OKgocPbqu_1dTncncXcradw8WqhfgWSowIurSykrVTkAbNsfbwA_LhhMlkRa_IAA2695rXYYTD8vRwmStDtFmvMxuTEMbtH52ddy9WMXLsOuDXc-HFh_AM7op-0tBbzSA-aub9QQwMwiVJYrDbclmXz92AqpBB6tnZotIRM5favQEa4NiauDNdxCKTWEnBl28fX8YEArOyZFocn8iD2_WjYCDpIA2KgaZiwKbVjwXxYZurWTd-9oCucOD1s63jTUjP2XLa9gIXlto1yZFwAFLQpbgLnZxXs2NPujPwDvaizpxYkR8uAY3est0Wzo_Yyn6RezOjgqYxcLVQAfjZnd76ouvOTasqw0fOsup7XjQR7m_M2csMaxIzjUZ5nfO42H-GF52PeDhFtksY-fI56jW-Y1XyVBhWahJVhJ0YKy8tQBludMgIfFBJmz_-vknxmkyJTGPJVvVBkg8aXXG_TM2e0otWIUrRyyniiFcd7eyYFRhci0A4s6qIVBf8sKBVNxsLz98I7xZNltGY7gkAAqK6owc1xiDdjs_enaDzO3uXzUkAbbIXYDmiviS2JHPVL2soxZmUXjc1WP7omYLSUK0YSzrPOXB929J_PJWoYKIShDREBmDYnaXp5P81PZEHV5xcwUYb7wWhTT2GM70Uso57jDb4NXETYLGLwdaBY1nc5YWE12S9osgB2UmF8EFcf3NN0A_hwn7yvTSEXAf-n3kYaMM40Ikzh4oj8P-BxvVaUdC0gHZ7qu_UfFsJ_s_WfQ8W9m40HrzscfeKSu7dyOa0M96hr8ZwiqpObNnV4bDik3e9FFUGzBsg4m6pBlPdAvGxR2-YXLDBYgT-K7acz71OjsSY5xHEW1FEQr5V6dI2ovL1yPNYm8ZlAimhRrxb0kxovWJUu8J72KML4cct2caLJRzkLHSkpGmRU0P9ULslY_6xz9p1XT852EvZnPTHaMMShwK0k1ROtN_RWhHWf6s6ry1VRjzacfc6xZyrQjj032rmqfQDqhiJ_xM_2NyFATrF19MZUS6ifXM2stCYmRHXeDIfWCo2=w307-h222-no?authuser=3";
     break;
     case "4":
-    powder = "https://imgur.com/jjdRlWK.jpeg";
+    powder = "https://lh3.googleusercontent.com/UV9owwLeBdnrwEj1paIv7B5SzjVvc7zp33R69dho7S5hON4TQLARlR4VWTF0tNppsF5us4ys12Sks9BHz1ZrmWBZOSaHRf6PMfYEevFCH6o_7ddw-DHW2Gq4t6OeMpqEq1TlgPNXd0DjcGnfOOopvWrZmHoW-Nv-Vye7ZTyj5YW-oO0I6FgmPHn3oaUF87z__PAXTo6J2Lhgo3U2h70p6IEXbHDL3RLR6yuKa5CG9b435WLUzj9QSFLCnDSKSSDJIlWWReU6Jk9GaoI9kXfLaraHTsHYNJwnSQaIMgHBGVeIlxyYh3U0Nv0YewX0QlkzQWcC0sURJ6bxgcGChd-H6CUNAadcKxS134C4PJjRrJTNifJ8f_sm1JZw9A7qUJprw0_36xirjitYIuVAOg81TjJKrpscdMQX5NYo4CgiwDf8NHEFikbruozC5AJg6UM4hVroliHtWWhZwrhXnLxVnt3gaj55FWbQoFLq20_CzX30sABz1z1_aQWac4ejnH0Mm36wWeton3EQECKxh4hHS5G92HH8GGZp-cb4fOuPKFB2rS6I7ijgLhtJKgTyQghQR8cxoD_6j70I97eYclBiLQ8OUQR8_U5VP3DTGMGbH5TJ25B73GpSusgZBx4z2YlQgMdqn7Pmxez1lWOtju516E7N-LmGqsJFXdyuGFNLqCixUl1k774L4Cwhx2WAEOlgAVBhMiCNZXl3h__2GNI1jAecppQdaD6_npm1b35BNuyMu72awy-Ct0CkYjj39vz65lwfGJsv35tVNNRb7fVUpUeM6gBAY1xO48-iGvsJM1BZzpUCNVGN9toPr0pDcwlhJEDLdWGXuqfehSAgR3B9MpsFA6fyLBLpvq9DtnzedSrMSmsqAMpS1YU57oKyO8aD4zzXQmzldzxb0NdK6VrQZpP8BFiONSZZznTyQnxlLvVPgVmIrJY1WQB_vWtX3huiE_hPFZvRU0QPXHbVWkfCrTf0gRLDzl1Ry_AtKHLzIu3vhwC6AeZ9Fiy4mc39za-kDzPqJTmJM9aeD0nbK4mMVkyECPU4YruiyB0FXUMkOhvHxtSZ4jlPJMuU3v_a9ZBprCFiIyqZW_lgZcP-iSkJP0_H0cacI7GiBm6K-i2QFXtyGzVHVG44eyNj4KUYp2XJovUHr7lJbQz_dfMLJ8IdywuEw2CWAOJH6fgzhfjc=w155-h138-no?authuser=3";
     break;
     case "5":
-    powder = "https://imgur.com/Qnvks0a.jpeg";
+    powder = "https://lh3.googleusercontent.com/ni_TQQ86wDbjxShPY-yttnRz62i2aVUn2eO3By96CD28YMwprywpKQ3ycMIVOGaQ2EkJ-RDoKUNaOO03VKXdbw4UXlobMGepX1DOlKojJYn0T7ZQrsKFaIMHutyHKzheMtVQWr3781dzlkxFiTYwqRQgT3aDEuOlkoJDG2BSFgOSzvVtHmu1x_zvTwDAf8ijmZgHZLg7qgrCznJuvYByAzE8IGzyI1kiq7RYHTomCIcSLJoYTvb9vuEdPQR476J9TvF0r1LPvWz0UXxStf0yRCrh5XdTuzLlGSEe6UPL3aU6kkehJ0BkVDPHXARBrGcApODHu7T6v8tT3g7UlqPXZT4aWoIuUoDlJHqf_0myhkVmKCLnrKK_MlSjwRhIuPEtnRsGJq3EkVl3o_whjM_g6A0cVHGhgHnQjagbFFz70-5U3QEywqZQw3fIQemGfzxwAi5f6b6CuWqpNy8Vx1hO8UE5GRTwyJknS-GEdxthHLfjJEF1mBXxx4I1BT3FCmboFlMXIbzl5yb-07nKj197W5WYNvv7j9pOjNOqV0pECAlpqueJ7OT_pk5NpDw_kggXRu4I8bn1XnehhHo9Rwd47k2b-YVnn7Le19ZMlj7ivEuAPa1gCyYPHjKmaJeQ9xi1p5wSdckR5kyaYQtBdLLV02RLGyI8M_b7XFiXfbJ25X1qlNQhezDlh-5_Xn3BPHqUE5besFQwzZvLwLxsAiUXBttt1XjA3fXElsjPdfwvjOFxZ3HuhSnN6ueQISL4JG3WoiFkCWQ-_lwr0hEDKsoBvT2W8GQ8roBh1J1piobfx-LlTtOpI4Kddi0yxGxQVi41wApmgvZJhkI3VVBHPpkrxnhQggh-ppoJwL-eKlXJOqi2JzziKRMFqqht0iRSAm2hbmvzt_ID4f0mw90LjeCMF2keXuiqC7LI8qRkVAD7JYPANuhkPggINeLt10-w3dwGGPW-3w512E2C6DOMzM6iZYmngAQHrQWNMJZIlLTAxxzl0WQe04Q2ohm_6lQh3tPihf7hvT87XCWQxk3r3Lf1gjgGsQhBwv56bkwj7O44Vb1NqYvWBGdcSXLPd-dQSixDVRpPz3_H7uDuBQJEw-a8nvj93L3wvkdPkRVbNX2xgVpDtLexCGdIf-gXuQT4hYHgONLbMp7BSo4mJON2uypGRM_8x4RT0ge7TS33RufX=w410-h375-no?authuser=3";
     break;
     }
     break;
      case "9":
      switch (z){
   	case "1":
-    powder = "https://imgur.com/lLjsWfv.jpeg";
+    powder = "https://lh3.googleusercontent.com/qCggFKLa2QX2Ia8UYrKI8ICW3E8f_kX6EGYxiyeOian8C8tAk6Rlme-jYjme2TjHxlmybKHIg2Ntmsp4AwVHKW3k6-8zrUDWv9y2GTaJsUtpm5BxR6gOM96m072TEMs-pA86Wp2-lNsJ1MzZiWN_lxOZmtoruUcTJZ7IzCIjPOFd2cB7MSkvZD75nVc5KqBqHapKwyy_Js7uDcNZItQkb4ndzHEFZgTHcrhq1Vse3NhZziirumdEnkuSfjZzF9Gp_KUHEWzig9y2cejR7HeB1403Hchfx6HZVNv_VR9-LJJwQutbi6VB-roLfK_tauKoJ-VBhs2JxGzSHpG9FZ5KTfeh1oMAoDBRN5WZXw5dp-SXzDr-36yxUvmLiAVLK-4vlDT7xRIhB8AARmxd0j4wXqj0InixEdbZztQuegvR5F2Zo6BNuAxkNDX6YBiRgRZAU06QuyBm-1vZ9wONH8ErgVT2X_iZd6uWfA_b_bACR5vTPbUad2kYGsHDzVyE0donaiQN-hFJrESrCdstUw6crQpGs9SonXWiq3LwbueqYG3V0txMzWDiTnjEnnCXJg3H8EDwf_nOb17vdgHb4IUw9lJ7z4FjF6xGT656z8Wb_WfiItikMU4Bm903GAOz2Gly2K7kHRnuW_C74zl-J-wbJNink2lmfNVd7SEzrAMCQxgVjcyIkd1BUVPa125w73mrrOPo2uQ5qXyqLBgDlK6eYMQMKM26B6OOwuzkPm3OP2T96eEZKO8F7BUizD7Zoj4GzHs23IdfCINCU9HPvSj0WqxqRY5-_d-IH7lGxX3v_t4iyWQsZjeFTi0yvTlayVnULlUaME4jx4BzWyYVmLFV8fvpL7CFSScNTMLCsrcZoXFtKx1zSXof0OBNbZ1ce3UqPNaMG7UxFXujX83sdO5o6lzYJX0PSvG22yvUrO9Baqh9ze8V4siN3rKD5eGol4Of5AyEBc6Foq15LWz_n6PfZwkPPuXQFmuQDOILzbGmNiNdgY3KAfZzyCOOYE-tKAsflpAf8MtZWkfpfhHXn-tuHwXzDBUk-gOBwdv8ALCDwtHSRAvAKWmTIn8X1GxU3mHttVAaWazRz0mCb-S5vnQvaOxJGu4YRVCz-SfJUtYjrWPOj7Urgdbm2n9jLHik4MluXRiPBQ6xuxHNd22q-seSFIJZ-3kks7q15X0co-sg=w207-h142-no?authuser=3";
     break;
     case "2":
-    powder = "https://imgur.com/1kUOAHW.jpeg";
+    powder = "https://lh3.googleusercontent.com/6cKAdNjmzD6_vLdKLrtcVM4KzvuuEQznwMCXYA7Sx_8ndkra-pHNdFihjOQBOSmdeS5rByDnZyKL3jRvaVpJJEZhVp8EQDS_uRu-RXSqgbEs_CdSgWQPQhL0TrshOZhlBR-CVxbpsTbSpyqpjZu26kw95yt90d67Ltrk4WSZZcaMy4a1pNuION8xvAuqhGObMQWcNxLQHzRHMVikTpql7u-U73acIQUnRVTI0Q8uFLuswCeF96lx0BTF1Urcah5DgOK7wop7P-t0ExDsEC-ssFtJzfcdKF9qWAMKo4NAPpMcSI3Jyfpd3e42_605pzojVTxMt_PvBsC4QreWH7LHCKkduCIk9Z6NizzCXNqJC9G9QQp75TQdrPSYOzL_sxcBL4v1Bb3aILUohMoTNfTkX6z-9OqMt2q6sOpMZ0coRsB1azl7N6lXjJn6eKoWgjwDV6Pe77mVJw1eOJQg2_1OwX4cQiSgLooyeY1yFtzAZi9yPhib6GDXrgaDeQnLT7vFuwzG2PsZcBauOOVqWwImyz1S4BISEMH94MCJkJI0m2XaC47Ty1N3kClsKzsr5Q6aN80GMYUpIOKS9HdaJAZKphse9gfA9UKgaJwvAZNILanj3C3TOxFPZYsdUtl2ZzL6QdlHF6gZKhOZgVHxvoIo1zorB-Ga4r25kDDgUhys2TKbgrH7RrbIaxuqrawMSKroVkN3aiF0BoXvnmMq8ctaQwjXFkUzPqgixyyZpnkVLsGa-9IhTd8jRofPGGj1QnKeuyaPNi_-ODv7P2hXeV59MP_orjGx_o2hzL_9s_SIsM-leolN4v9Kr152rXIqGP8wUA2TYHUSLrp1LoZLk2Qz5YwLEIpTQ8wHrQpJ1GhCEeOIjyOg7jUppHPyupgNcdD0M7OFr-jyPN3m5ok8ZeKKMpuQGQ3JtFF21x-dogtx3cWD9OX7jYS5v_M6YOmBz7BgWSO_eLZZqpzSadX1jEQ5lvzlKDf9yNK8YwhXO2UsJKeFjtZZ7X6_dsi58EmQVUREttYU-KuAvPUavY_KRgR2CyUPwh9qPlXfx0RTJOZe6npA8-ungvywB7RjxyDzJK_uW65iRQMM0XDNYK26P3XSZHL84iBDYFc7gH825pIYDnfw4b5930Vd7ak_1azmfC6BdvMnJPtBIVHKRZTaa3hGVdZzdQfzEtqHHBFrPFRb=w287-h235-no?authuser=3";
     break;
     case "3":
-    powder = "https://imgur.com/7ck8vWZ.jpeg";
+    powder = "https://lh3.googleusercontent.com/ECsmf9bREqulz3nOj3vyQUzCmFLandj6dac1g0GuJmY_cc-i8F6RtwS1AIsUpYGg_Mv2qhLVLeUFCz8K448bbJcjv2L6iUouwsnR5ZAaT7RNjDjj3zX-_FHvHU_hm0HnCPxD7Or8uPBOkiDD7DfPh7y6s6cvNww-D8HP9UomDdr1HPVQN4IR9yf2nG7kZ6TgpmVmFfWWeqEAppLJtY6iO30N5w2a5D4HoO3skgM6TfuE-KFqLrGLz3FWg55omgxa_efa5HSOHX-eHhEwGOzK_AIqJr4E2DuiBzCXQtJnBh0TVZvfBY2Zht6qB5SdZlxn0TgdiBv96FiY24nvxDeJ3h8R_pEqnbbsVcsxB2a42KaWGb_ajHc4vbOJAm38wmrrbwBXizQqvnztsEaEcafB3c4f-Re16DGoWk9D6OdMMHyJOx4XXKlSI0X3mamZQqbW21NAjjzo1Qxnc08SBLwE5skYeIu2eXV9ye5f9bjB2aFGWVMbQVAExrVcV-Bi7QEUg-AyGTinPg7NsJ1NSyVJS34zZVn1CNsHHLkxCsGOz8bV1HukF26nhK6cTd9s1al4Ipy2VE9XfRObXyLzJmTbGSD4bOlkvqw-YY8ZMrXfWmhP5zBDLyonMDYtViaoiKaDoAgRr18nwQ2VuQE73jwA82nrU3QPBaMfylERjN3iX9ZbKBf_nY-EfQXQKTFSGcvKHJ4bbE2YvdbYIKEvwrE4X_yol8iV3jLhMZcVWc_RURgzDWws3JQXn8f86yiAENNEOt-owKQtcgq09gqswFsF5L5T42BBaw_wz85JJ7RWv7a9faXcjZQDdqYnDpMg0QbjwOG3VS24o4NLnKD7O3cL9TjzgrvCz0r4C0hwNDF1_2MovqCIy8k8Q3ENbC7k4cu1OKVxjrY1lNjQ-xAPZnL7417RI0k5lO_a9SUvHK85J7T_zgJ9jsBh-CQ4ok2Q_SKPwtn6N1EjKL78SRmP8v79WlkN6_8fxZ5MK4ps44MZ9rX3DGSnsSu-TCcN5MjdaqURgBZZfFHoX1vQAY2FVfVzOOfy5diycxQEMZ5X9XLPAGDidD7i7i609NTmuWWlIkNCLMQhzOhSmxf0X26ApAri6A7LVw_07XegzrIJUqU_oahe6YSD3209LVNme5DcLy1GMRsCWNcPLILdl5Je3PXlmIIoIZdnp6_-0ZIt5Rmn=w207-h165-no?authuser=3";
     break;
     case "4":
-    powder = "https://imgur.com/jEhErlk.jpeg";
+    powder = "https://lh3.googleusercontent.com/4xfiLbm6VavLOz1hzR6QfLVQTbO6l-JEVRg6WjY-X3J3zGn2ZasEodREHwLWhTsRTwa681AX1idI1kpxlroXN_x0j9TiLKYJOkTuY9O8emXeI8xDfYe1obAOOaHf1-3r99flevUZ00iSJodBtCoQ_j2ctPHeZ0l900mSI4GiwwPp7eimgUle_b7vFallp0iYeSBAKXg4US1JycsZmB6wI3vwSiXim_JX9DRgifO8bFp-hMBjlDF2ePFd4u_XVvxj5ia-KRQX5qGQL-2lpOuzMk5V8dbRiIqezeY1MaK97IDPtQgbEsQoVBXtjtMg2j6UA7JuZjHwaEOyxUamlUDZigGocA7DB-FR68jNITspfnnF_xSOFd1r9QHQE6srp0chNILP0IpTMo-qzBD6dmkOKWb6KUTiQgckqq6q_bEeMW6z6CWSQB6lXK3sCt1GkR6mo1wtehCCcUSdKtRXCa3nY4oGWAahYmoVEXQ0s1kUMZ7_moa57KmLQR-XcpFk4_0F9RxgKl5uaoJp4VIOYeQ8K32nMwP8YUwr1OirOwrYZHOZuL1pXttUYGnk-Tn5Wep7lU1z4KijuFZjKR2D-0F2GVPkuBxj89VyjZ1-lG0BQcjnLxmD1PE2s6LuvROXMcuzW9WPmIAmVrrL8cJk0U457ttHOYSq-JXDvGuOC5EpvdVA2FXyE_yBDkOcflE6G_J6PWCE8gCGCpOgKFwawoofbU4G9m7byGAI-h1krf9XfCcR-GGtmxI46ZZ93uG7HKzN3IIK5w_szYx5Kftkm-bJZKDekaEzPmm5WDYmEUl1AncT0sizc861r6Mt_ih9WGfI1GnXgGJAemG9T7iqbnGS-Hp994tJCbCWLd3FTp_oZGqhdP5RWdi4DXw4XAuOS2LpCRVuLViyM1F6r4DLWLXpznaVqYSb8J7VgfQ2EX4D3a-uqcwYBlRCUH9WO3461UGEW0lDTGFOKscG-jMBp5Pc4Lv6u8fYw6GC6YbBqrUNobeiFL8zBa-J27cNal7VYX4m7CjLOnp-g0DqDVgeNjbStw1DW_1lBESnjp3YZpcxoW45IL0eacunV9Q2LYRrUiNFNYFDfibNmLCq0VtPLGKSegc8dDPNVp2tB3u-Tt43Ftsfgg0GKDQXAnvZZExAv4bcCW9bX6LbGlVY3IkAqIuIi2PXyruT_BNU36x0gA2K=w134-h108-no?authuser=3";
     break;
     case "5":
-    powder = "https://imgur.com/dNeo1xj.jpeg";
+    powder = "https://lh3.googleusercontent.com/vINItytZ0kteD10awgmhvUF_pCJTnIRTy5VQYudH6wbf8U6WmUSZ66Gq_SiMnTTB_LfsL0uUgIAxOZtaNV9KeT55vlT3Kxbt9Yqj9tiFhPBxhzFJ0zKi7sY_iaJhnflSUutMj3xwE0kCDXk7-8yj_v5keNZRPHajgIF3l7F2y7lLNb_zNrqi-6PY5vGCu6d1K6mq7QjRwEGIUcANCU8Uo3wPtuMMlNlI_FC0AVA886lDGUHL1Ifj66x8feO8OmO_hWOKrW1qlBAW2fwbc11sVpd_klx9hZT8qJyCXPjq0fGJbGldv7WIFH0yBi-Chl9K6cBRfdjTIRKFufAHMLbqnVEpTir1rAcAsB2viC2UxGp5kRIrsVH-jFswut34TLNrwlLVZkYccyKhq0Gpgy1lluD0skHW8Be-OwJxxkBlO3NnAwi4kN3kxzRKuqW0DneNof8iplXQGIzUyA4XrauFfJPQzFOLIS4P-TGIXx7wqYkrCDeCTFi7YhcTpB3tFmxpmoPD8AZY9inDDzV00pk87QiPXBVhWr7Z6SmFJ-B-9VpmN-ZdpyXDKtqlTwHQOkCwVdrwytJ2JaPpf2m5pSrysQNBIZ_qRXacOjUyA1FXLIJ3q9oVgntIEfyUuikox-ZPUNLuvrJv_6J4Ywuav5ZBxaZ9vI3azIZTxsPpELwLjpodsrVyJDyqf_8xAdV5f-ggGIoGlf7h7n-TEAoQ1kdcWyGIq68NUl425tP5LXncjo5V7B2xpZm8JR7y0P5sTCSbSkOGfCJ375uDRvvZvTmTqu7ZGTPbcGX3GaOfpU_o6n3tDjI2li4JttODGHGwGUVSW7DuWXCvMJri78tu-j5WUJgUWDHxz1MLIG2L-RATLhnxQrmX_IqHMlDBUeDFU1TN9BUzJdu_cob5K-m3ZcJz0FZlW8EcgKzELZgkE4DvPYqHrBOHl4pg2s0UhJzNz_068aUL-jN9g6J97MAg9dqcI-nF31yrYTjYQBpTZ_l0MrT18Mc5wvVNxXT4hvDlBZZuXoKBu28x_5S7JVQY8msivXMeB1BbZLojZTIEQUGRcUnjiA-gqbMwAKK21DWZrks2eiF0jXb-QROQa_4k6-UvDOWcZBmENenitgl3BXkfpIgfKU4z3J-1N6TV_wRaamQAVLTBZz1pIvhc_dcYTQt2yf6qJaIqSdFOt6paEFVV=w472-h412-no?authuser=3";
     break;
     }
     break;
      case "10":
-    powder = "https://imgur.com/OhbTnO2.jpeg";
+    powder = "https://lh3.googleusercontent.com/SzKq1tRs6Ova8OtZebPZ0qmQJs5kIaipIDOhajkBibr9Q_gnWCFWUnYIwDfyZWMGjdA1q3b7f513cuHywFaojNfGl7wqVklYAi_BrDF352yEotsg_N2Ja7aTPw9OPDry8ezxROkzqsbZL7yVsNsFgoedsEw1vouwTOAsmJEwgn7yUMwLUNG_YHhprbZxWuyTXPAzpm6AZiSbv7H6b3fcNiOUGLvu2yET9e6Z5gOTHveDmXRmA8O0XmuGLblbEZnrZmOv-qMAE717O9NnWaINurA1A7j1p0WOBXmAqkg-aiOS0xkAP8858oOA5IAULkk9hFjpBSQLIYw7T_xd-N574IavEuSzqrcXDmIK-mQir6cxDxFz52d-eTgz3HAS8q2SANDjvn1gtFRfMgvDFC-SyKEgr0ZKQP2wGzgAg0CxgaFiCmNy4RHWU6hCzdvPwC--YCPKN67jEnpPgE2t5tE3a2Sc7i34WYuVQeWiR_9elfrA1Agwt7cuBGL1s18iO_ZW1kStB7pqYF10l9fgVuOu_iNptv7hndnepyxTV3L6_B6cV8bMdWBE_newXgH-vGAam-aRdFc7ZaJBdxywQo57ZS1GHdgf4chxCo9KAkbK8fpDM48B-tMj8BSS1xDQbMyWSJyyaL6HcoRDlgrcxs40kXqpMnwWbqzbMI-knIM2sFjZdVeVlskfl3EiMjE2oYWpvorNh5sj6HShdhhqGxWH7tumHYka8efAAjEU8exIaI3kilq79rswedmWPF8NRE7-1g9T6sdtyRgwkNwIyGUCiNehD8oH4nYF_2m83ELS-PHtFThswnlruf5U3o1Bliawi3BbmoVM3A7lreSSlvhY7_YveBHCncjbpR_mm92NngrLqjIwcdLpPwdijBJs6GQ6BvLtZuxRIahNWWTNoHqSmnjrpGvVQETsJfEMnw_jo9HhDV0ESncLJcGD66LRl2DTgc1g2_S9Z9n3fh1EShBRs7aaE8FxQdaQKlvrlxVqMCTmPBD4UX6KWtnI47EDZhPB7c1pbrW-SdmMEuXMC4tM6HQT83qCGBzXJEAYwyydZqgiV0iu0I_87NnSYcRIinRXCTf7PI2I1BqYco3xe6-9ZUE55sbsOASGLrQvIHXhIiHiodRgXmrJe72ptmoqqtW9GoxrnTfmdflbJrRtYuVLAd-krzXFY-Qnt83uHxzO=w123-h100-no?authuser=3";
     break;
      case "11":
-    powder = "https://imgur.com/1zGdca1.jpeg";
+    powder = "https://lh3.googleusercontent.com/_M883QAIUqEpBrfKfWJFgJylmDjza_jdHtRf8rukNqFUB4MiKR7RwACpN8dSW7W4Re_fCPaYRBkdGq74mpAbnT-O_l1Rz3ufolAmfQuHLCeSaR_aJrchMaAAB6_wjPiWbnSAm_vJaJX2gt7cEwSu2K-ZrdhEFkvPVXQ_T4QdIsMjSyIJBaZbX39CydkQu_YapL1JqHtmv8vsaacGoKdaLGweaJctuhnEi3K9ksGr9Pu7a2IFqUmkK9EaaipoKm9P1awlClND1rJYGkkTCtkdui7wrYBM1gCX-boIGV5lQFuSYX-W7kmfFeyeqD_weY4zhkjwiwSzhvgHaPbJuH3w7nQv9U8v-_A6wVbVkH65UE9VRkw0KURigiYZMgcxAq3tjjbNPLPXAnCHqH0g5q33c0QkzohMLq9h3_WCnez5rJiuswsLZE4N265R_kIkq3Ffusny0EwO5RHBylzKYIwbfK7neGm0Fu2g_zerqaVx29lqVuWelHyVB_HzvUtTgTjWqT2qLBVo-1MsiE7zP9_tg5k0p4Bp_CUj_ZXzT0N0INTXC2VmZrsit0y504lF53gq2RBptuSKMFhnGrTWkZqPgApzASQ_2-Jnfw4bbjxWO8KKuo3WmRKXTpUbyNqyvq7uk0B_4Mrfnf_CRt5xEAqP6uFGC_oEt6k-KWGlj5pN-qvGaCSw3C9u7cXFWxxvhvMQT_BsN9oelIHw9P0WmRzK8kbm6ZTPFqhUbH3KLRDejNyMLc8AVwLaBicyM0k6gX9YQbagAzjWtrmYEJ9ZjOklzEh1KFxcKopRqlNjUgdU1uSaeb_NVELNAuYW7Z8h0CciGrz4r8UmXfpNLun-UkQLpLtjEHnvaDsitTnDAA2AHu_KJE6-ooB_0Fl-107sRobfHH4zBYLRMpBVu8GOIslA8kFrHWf-CHNshcGTjuq_1evU0oazfuIVSEXsoxwhLNY2K73TtDZWI6_SEBY0AuLHmG5koAqDUH1_4-K6D31gpe34BEXrb7gluzmdFiy3VLt9TyzuD8tY6NxHYrGuE5sY0C34B8yT7YCEhREf00jsHFTAPe26QslVEH-UVT1NhNCaV9kLOM-tkMaPZzHfL5JZYsu4mr2YfsTnW2B5Km93ysNLzhBVWllZUVv0gTju7bkPbuKtMzjbj0-4_w89bzh1rryh8kF41P1v_QKPXjoL=w487-h430-no?authuser=3";
     break;
      case "12":
      switch (z){
   	case "1":
-    powder = "https://imgur.com/O2UaEAb.jpeg";
+    powder = "https://lh3.googleusercontent.com/nxrl-F9TwptFeNG_g6EwAS7ab2inJHEdxRIFcNxamwC9WVKy1HF_qwgJH0YKTmDEXNgti9SyYpEofVR2UyYb5HIZeW4dEaPxfgUePNruOefkZ1Xw5QmRrcZof16-Vc-MgSP1Ci9XaeAXXFDRkPdQk8ee0VBRRFWvtQ300roHDE-ZbO-8LupSWko-aRRZO4Ic2c5Qdz-csCDOLmc4WrnxVmUgKAq3JudCbL7zduvF1AoZPz9xQVSUA92D70XUHeiwRjWzSQwFXnbKTOrXEOdDSU2dB4jNs7mKGjBHCxhrs3nFz1W7v_7UJCCgjY4nqjWxWQb1t-EgmJKxZYOk5Bw6drftp9bl4nekEA328T6y4Ma796bPDzzm9dfAzLeIqP26q61n68tNbox5LbjgrpBkw1R1BqZuvIZelBxciaJ_GPNJdl_hGwhWmHCoH9MeoXDglzbsg4rESgleoX0YKIeBVvtX-nGPjiSVG3DQx_1TTPfkRrFOpkjXAFtY6sGiBNuRZN60xqpOpzwDWaAVHQO41dTTIJ6AsXbmgfOfdNgiY8FOT0LJqdGNZfxP1JgR9fonBYqShO4CeoKU9DuzCDOEn88C6ulksGCTRhHyihYQjkO6PK7omHzSx90_SpOL1y8dg0h4zBi-cJPB-pQwAmekaDi5OsqNHJyRNcXoXDM2avx_HyLoZ3ehxUUB82f5_GAfOsF8ltjLcts1CvQQw5CKRsROfdtUT12nEkPpaEFNS-rZUuiINKePWOheRpIKjLPsNI-n5oLBD62O7oifH2d2k76zWmYCgDPJNh_PU78Y_XXsy8LobAj7_-kGRQaCEQtzEH6AM4yspRweYatj2hDl2triUXqjOnKsaSOTQ6X6pf3s6Lj7o374OHvpCLhR48VgRiUvlTwAGRbJpc3EJeYfIG2w_FJZZRtrahwIlVJmz9liJyZf4Ic7XY0ep1AwDKTAiwLl4VVtIVc5y9Sgc3SFiz7w2eAEdHnzBacSlUY9H1nsTQx5Eq1RYzt63-b052bwgxTZZ2lIN2LJgxTb10kHiFDqm7QtO4UjTWmahYTMgbiIDA3rcnzaHNBYEzwCz619U9lOSQ3dHryvctrrwCvoWQCAuX-qBjo70rEE1PBYV_gI0ZgfwqkjLU7_X5eTEU4z1LOfH44vODRPPgtAKDvYfDnNgcVvGBCU1fQG85X-=w184-h158-no?authuser=3";
     break;
     case "2":
-    powder = "https://imgur.com/wtrfCeT.jpeg";
+    powder = "https://lh3.googleusercontent.com/3Ug-Nn_RLZSRQuyKa2L633iC9X71fehKA9_3I8BMiBFFafHbertsjBvvzclBoLwGKgytEryuaJjFLYvjDKM0yk94oewPOjYZ0kLdkRI2yXoRN8b4ZWsM6I1iNqXK-IUE-pfkEggHZa9hRFHOeSsk-PL5yRbplKeCiFzk5TFj6cSuzL8nZk9x_yXpynvh5eocKu1SMedl9L98NVViIoE_er2WYBw2Qfww_SZlnx7_SLvjiNOAukFw5VPKo9sUW_HeaXYAbKm8BDRZt3a_UDdVDsAoFtJEbRlngN651GvLpR_AlXEOxf1il4f6KEtvP5zHcpTQEXymi-QreSge2J2J896fOBVjNdIgl2MSOFdQveik5sesUPf2Ai2Hpi5DFMHpJf1ZUgGCePiwMXaMDqJZMr3jwUb3jS-aN-a9fNXmSNA2uEclCyzcvCNdasHYI9IxE8jnnAg4-d3R8D8SNu7LRNM6xrpgZ0621PoRAK8uxrckAYJzqC5cHKy6yRRVWUOxhs6oAjmZRs4PuravoWAmXULF4APvH0vBDB-f1QCNrl5ppBdJ70ehMXnOfQwiCsMHym6X-clZVslfBV8bH3yZO4j4ArUvsqBDERh_-0hAsfjUe20FjRV5TX_ZxsSC_IeiIid6HTSbbFCkYBuLtuUIrj3fvMD0eUYWWZrQwhiGnufNSJ_b3_On-671UJXXYKpre5Pp8ZBMvwouJ9sgJFxDRlxdhdqrnXkyt6C07GgzxRailgRpdW2INM8ma8jEqSRIJHjgrOsB-ZMseggeHiMDXOjgxmqeXaqZqAg6-ZqPYWd_fjHILmTYr-q9hCGsocAgFQGb2PgR4Q2W9Cg9bVjLV9RkTrOBnfevmHypLv7s48H12ZYNtUhVQj5CGucceYITt80YUsXK-cwqH6f9GyFHwR_8jFAoQIgM1XG3tJ47vz0HpkDwQgU3QmeaIvtaxpPTEAHqnL_J_LNX2QiluxRCty5-sZvKKweBgdp2e5Kwd4LK9VDHXJ_Zd8qsMDdELA-V97XQuDnTPkZG0Q_EzaqEx9RjxVcYyR5BiqBW4SZHuvyqhxA0KUadOo6NAREARUybB6QLdKrFj7_jEJ9pOOf_opak1x8_hNAB7KMw9kSc1sk--InqxD6N2tOjMKqliw2JnmnTSDz9BDAXHIXXumEYA0Munz-BBpuTj5ArJx-s=w380-h249-no?authuser=3";
     break;
     case "3":
-    powder = "https://imgur.com/pSsXEAG.jpeg";
+    powder = "https://lh3.googleusercontent.com/h--GNByTJxjH9PtuRrDwI8sNEDvg6xduUyfYCy7HJ10OC5AXaXS4qpqXey6MVfWDSIOgP_8JAV_Y8QtU_rWKICv-tFegwcCbOk6XCJ_qiOLCuBs6U6nadJM1D-g33Ljeio-_H9uFJrF46mnhYynPTTjKE7nmlFi5S_5mHVMJc950ug1C32VbWzaphyR4s9LtuMmlQe-rpegzH1PCdjdzmR-cnEicAoF_UzfIK0I0VVshkzvnHbmPotmVjPyoKYb6PhObr5WPHZUf1E0-rYMQXUZWLXWLFZe8KHrAosOGM585LSc4kCq7u7epiRqpTn74ETYw-4DdRXEYVIFqw01215_Qq2vi15Vqo3zT991vlUS1DjtDTn30R9fIfvX0XteKkeMsuPsMwf8mc6sUw6YioDFdp2SduL4KCcHMks6dfDyMkVUPqkBk3O0De9iHNyx4touIldkWGrvGpFRYP9pAq7YMivd8n4_h0AjrdvheyocMuspsUIX4I9BQJeGeqdM_zCJb320JfPmP0Iyc2pzzvnmKOqc5V9kYjcy9LfHkld3mxfe6Xrsszh5QWo_JhYdhIJV1bVNJjya28tyKH5ZzPuhg0W4wSlS1Y1Pzc9NdyeuV2nCUNGXYTmsbxP_boiGhyceKMAsWOvQMOW1S_KCsx0a6Vx31yjuH2c1qkp6Ce_HtZAAhVOGHF0Ua-ftjW73dLl7XDNW3tGalcfnbBiL5r0VNWGDkOAJPaZ3Cs4M-hwOo_8IqVxt0jsK0Si3mix1vC-kuLIONsCYP_OuJnrX1baPh8HMVXSXZLIuv2gX41TBL4P9zn36dyGCJI2XHqziyHT4s4OSQV9EdthaqkoONabn22hBJhQPzsMplyjhHuvUr6I_AAYZfGlAese6CUuwj0H_bGcTqbuzxJ4TukEdfwc1DJGkgrnFEzRz-np5vEF6KV-qVR418RjrN5RwnM_EpKTak346aokoO2KHDmU1BCWt0rjUGVlc4yPLbvjEEg8BN_ckcZgpM2g9zSMioVCJKUmUdPxXcOs3FHOnb9Rofrz0pHoFXyIeFOjn3jZcPnRgxnIiFklvshUbxs3dnCEbrlDmdQTnaVHb4er6cpsHyv8PDQyP1YW-cfFT_q8GQ_zr1JYc0GWZ_KjiBWjyq1ALIMddudgRIfRBfXeVC08fNnumJsznWxoLmba7kyGZ6=w576-h462-no?authuser=3";
     break;
     case "4":
-    powder = "https://imgur.com/88rFA6F.jpeg";
+    powder = "https://lh3.googleusercontent.com/DiZm-fdbdyMEINIHxOt9m8JJmYp0GA-oVYNAi33PpIjp8Bgu-T9GUteM6KR6QQhVuXtgUgoDWkMjM5ZpCeQitXAtutn76xaiDh7Caphpm0D3OBw83CGUhR_bGNNRwCmVDv-KCFwsdT22a-SzA_JGJzVFu6kdUkCW0q6uli-eyYm5Igft_VIeKrTPG4bzd4UREWJEQzt-D1AL_bmRHdM7fdCWvVvHnvm_jggMr_IOGsvq25idx2lQyf9F6Yfxxps2cjCQnPxUb8Y-cN-KirmT4_kCuxomDYeTWcpiqis_sBtJ2NLarTNXgJS9CNASBghTI-UbVY7wtaPOD5vDWebkPoXUE_pYVhuVRotR-bpXO5s6PXdW7ta2hqmciCXMWCC7fW1uxgaYnW4iKTTakAj1raEIsIC0JuwIn0Ag8dLOKcTw66RHOyQSF_gXYxaY_xtLtIO_FuzC3HXy8Ygv3BBDkbSoPCjAOh2evQ_Rl0tk9RPYuGWYqNhhqOWoeWjJTuHOa_78PHnVOZY3VzM3uGlEnW0jP2UxFhnrkNkYWnlRPX4l4E8Gyx0pgoD_S_Wp9Ub3MT68DHLno9TL7nRWHJxNxr1-t0n6uL7Ydn4EnZl6NSWEJNmq8gtlI4xil0hMMn0P3ZqixrfvwXQ4o-w1kyJ2PZQyKy8rPxRiQLeSA_-7LrSpDRzOw0zDcu61azmJkoWvtv8eio7K9fh2IXOs5RStz2g2VowQm3PfFdYDLGUlpd_j-xqu4srFzJIFXHpLDM7o4eUGFlhrUQt8tGb5Lr-e0q9OFI2NkdijImHBg-HuJGl2FVKUNKnvJKQHPH5da20fhT3cTfzM2KMVXn4_pXiMDsC5VR_-pc-8ncLAaN7GozGiwKLYNWOE6ZvDpa2ImEAVFvLJN0mF5I5MD4UxP0IymjDTIBHPqfQL9MYYeBdBmEOmWL1AQhWVozDOIbPTZH-pj20pCzBrFypIdQ9SK0m9WaAXWxiFcVllIzHVJmIjCpN_QTi8at4p1zDBaqsMQOsE_m2cy4ZMNGFDgJ7QS6Ezy4JIqbK93cPBMT4ClDj4tcm6Cb7ILx0p4KzVSWdmIHZL9JW94Go-1sNe70hPUWsjGWU8H-ws226KcetNq8eDmmJ0T2YxJRONxnSFCkE5nFAww_TYeoDPlKSbCKaUx28iw9mJagPVsbO9a04jVt_f=w526-h446-no?authuser=3";
     break;
     case "5":
-    powder = "https://imgur.com/CIZk4CO.jpeg";
+    powder = "https://lh3.googleusercontent.com/87UuBOfWFQLkDLm9Wuc8VtQ_YIkgHkre-frHdH_E0CthQoZ0FukA1tFWvv7hmRfmSWCdMFF0VyPGmk-VCKpPozlnWYzdJr7raB0wSUqO7qsYaDmychKDXVdgCmrQ8VCE_bzFZnsAuM1AMtFwDsD-8apQnX1xTWL7xSfiQQB2NYBQh3fKRsdk8ab98iG9RLLiNZZEHShCzrmXnfUNYTm6M0hVl6NFFoDrqxBbt26nI57KoNdfbazgE1sJwkgCTScY9v3Q8c2BGoybve7loSzrjO3lY86qeyW0-tpfwCsb1he6huXa0_SQB4dq3leC2QOagGfwNW9GreUgnSKj0bdUAQftttQV0rC_eKGpUSD6UlGAw9RXIK0Q6STq5UxE6o3_RsID5aL0ijb1wkFf3Oar2lsVNFH2LGdnQBujYGDxr2b52suipiGBlGZMJ4Y1vfBXtatceppil-5P5qY0fXC6My72OeLIcMTk2A0GnaM5Rk0nvFDjIlkUvfpBzOKQsrBGgpH-AdfDLH9zZhjWc6ug0ACMl6WOhkT8Jgl9KTaAlqGDXUf9iywhW_TP55Rhl14H-k0KENjTFDVlom0WLt_vfxZC6GKYK7CPoGKG85gaaTEzndxMG8njl4CZ5cDfFrat6G3DR8mAj2YgkXG8yBtBOffj-ulkLouBC99-HJMpwUDEt66fdD4kqo6Z7aeq2qgoq3cN_ev5l1jgivHEHlgZnQ5SiqopF-qQM_bjsGbloY2e6TTU0-nea3Zb4yH5VqssofN-Yz5af7-J4BSKpvhvpxP5vMU2t2MTGaMvTr0ixgkBPz9HA79IP3BxkTwNSksVlUoeAuw3tPLmNLxgBPyltmEO1VJYpHDuO0dDDUkcibkOo6XgEXPhhfT6Pk5bCTQ08rFMmxzKpb68YyTCiA3GnmMCzP01VTWCALBMPyWfq4jw1c8-La_JRatCu_NIuN5xVIzSFrDwx0vLSECAkqfTk4O5ca4W7Ta4XuD3mzeQ7EEMDnohYPkDR3H3g0JDN8E8UYpjOCWQSXQcdqjjjHqIfgJct0T5lBP8aIC-QqgbFefEADL-NGjSR3XJwHwuiloRSD-EHIqBA1JACacnpQKDQckYIt2FNG7NDwnZRo62PExwZhcwIzQuxh-Dm-d7NH9J3m0woUJudKei1NuNue8jLl9zBZluWPep1OUXvDVY=w504-h358-no?authuser=3";
     break;
     }
     break;
      case "13":
-    powder = "https://imgur.com/A6kSZTE.jpeg";
+    powder = "https://lh3.googleusercontent.com/2nIWhbDubmEDWwV6vx1EAqOcRIXy8Mqq6g3J3Km600oFrFTo1QNL5hW6B0lVuX1X7Dj1URMCnHyDmN3AeUg8-9oFNvU-YGzo1O2gGiqc_kNO3D-WY-4t1DZRwizgvzIRzLyPi65zwq4eRfUAVw5KJ3YZH7_mQ7w8wljmVJCCTh3X-D4dOqQFiKJLFVNmNobYVAXK8OYSanj4y3yEy8qGK0G1exiEOkDc62s03wS_sVo5yiijnZZe2Uebt1PZohvEZlA5QXP1LHHSnYaKwd20uZCqo8_TZERf2Xp0OU40SUfyiCoIamIajWQlceUgKCB7_yFIbOT7tmAWM37zMQ8Bd92krjXUAem-WyXysB_LubCziUrRZ3oxqyVw7GACSRA9z9iMMCXzIjI_kakBUuYXeIOHR4x5tZ77fRUYuRbHS-OJ2_GQDnM7BIIQbrNj2nPi-Z1mENF3Khpk4DLrMBKyRKfDkGVtnjMbVsUPDMNJAmC8pMKlcZRIg61M0RMH6zMfnvolEyotKuBtNnZ-h35Y7xYUntvFr9BW54dSn8us-0keRACtkCDRiiQepWz5uChq3RtGPYgj-mxixGD13SjCQi-Co9XzdDFzut2MhiVLI4hNcqqWT05WNUhs-1ghz_dv9JQdHfBCKl08u8ot5xHX4somZaNhP1fOdfky59uEFvY9c_kyHYbx7J114saP3KdWdVM93JQ8cHUrEB1C9xl0AeeoNX58LxkLeW7OhYwifIK6KHman5UpN9yMWqoMIoXGe8u2gP0tu6t9hbhmJ0ZbmmfYJ9w6vijQBOeYkbm7nCrQtmlWskZyv3cnH1VrSA-caaMHejrWG8PeeqlLtwZ1uWqVWZf33hz6Id-OEXSgJql7U_TrI7KITHOo-aSLlReV0m89v43Hcxei8D_sqv-Jd5rNw2j-bILDqCaty88MszRlGEwuRQmhNye3HTao2uoGmWSI0cl6hBLikFUxFngRL0MGq220_SVkxyQSZafsHGCKyW1nvC2DDqcyqNYixujTU8RRBJG4dF5b_0lKNnGzZFM3F_MpFaP8wTy7_TuXLC_sozExnpsO3KSd3TLzj7xV_jc8FqNuDqmkKX3Q2HwlRbw2zU59L61FgXN08XlG_VCokfaHJlBArbSLrFX--iDlUaCHgM09MU4XpX5LsIH5DHXItvwIKJOlGAdtBgTz=w124-h101-no?authuser=3";
     break;
     case "14":
-    powder = "https://imgur.com/U2zjoia.png";
+    powder = "https://lh3.googleusercontent.com/xwXOJ-uBsDnf4SbAvWQQgko1RX8jbiTWAHpQRFtfFxoq1TgU51_Lj7vx66GcA1cAgDlhJYHH8-YeDmmw50uUhbIFReWeTEi-TRYlj0FqdgImQDWLLRrASoKwBkwUh_YOx5HARTiLZ2sRVQkIrIzg6mZwMRA0rJOzMovbn_DB0Q_Mw742XGoL1a2cyFOWnkobp53qrYiKCohLk3BCimKMVYMv_qor6Q87dsIWZr3rade_xpKKQyFN3J4vSsvCZvZAd1CdGFkFVHlqCGDo_GQhiSlxbZ-hOZKHCm730DZF5DxrZsZzXgPbYXpKfCBxXHDDnSusL2eofSIG7xG4wT510wd0tknvxiLwThh0zY3YwhqupGyUnERSpoNI2Y4Ce8zjZttQ_HoVJod5nahnWp8rzd7ohdbjilbaJ4DSyCP3QlsDTvO05hF3JoP-87FjxaHrCTtKhQT5u3qx7ehW4HF7332vKHTEtuopl7UMlg1IrHB14BuotJutw3nQcZZAs64QWyka2SwLE-RpOq0JGMZFWt9-WBrtjeVpqF5REHiUUanAUldOlU5CCfa9zPH6ProHj0VkHl3eCFrKs-mZylTMMT4HNWWswajik8O6Ypzl3Yrc7XEMrfjd2orGZsB7P1J5v8-AaQSzbdSJfYMhskJU4g4x3EfLJGYcNlEWaUBSK9OgmbhubFs1LHb3tcrF6CZV82jxxUh2DDPUzhPLkHW-KR0LZxZoy4rzizRFnBzEidkHgZ_of4DsqMLCFXvaaTxn5yXpNyEJydV5X2VEv2o3pBPRy1UwWiwdWfVSgryycnRcEDOj5klylZ1S5ZBf7RcmEEmpzGps_uptLrPonYolEcKjoYzJwKHsoY32GmgKXrFVI5IpZroQ4lfKbES7fJAiXlFSi81V8o0EBrqcEAKOFKdvHgZitJ7a9YNqxr5eNqoDDnyOZS-NUveIl2Sd9442AcAT9Mu5KC6nnNON89fd1gZcL5EHs6QE1bzcPTCy7J1widKXorcFqyrohBr_NT72gGAoWSWNLGkwVlZWqgKQndamURUHIq3pcbz5WvH2Kl4tqbFQUWGx7AW0W13n3appdfQmweiEYo6kAwAL3gDkLon3gM50pKZi8CDR5MLIXGvzOJxBAdCQKOINVmgbvC0H2flsRjPsf3eYRzMF6VoD10vs4g76ZiBuCfRTRg4Z=w304-h253-no?authuser=3";
     break;
     case "15":
-    powder = "https://imgur.com/U2zjoia.jpeg";
+    powder = "https://lh3.googleusercontent.com/xwXOJ-uBsDnf4SbAvWQQgko1RX8jbiTWAHpQRFtfFxoq1TgU51_Lj7vx66GcA1cAgDlhJYHH8-YeDmmw50uUhbIFReWeTEi-TRYlj0FqdgImQDWLLRrASoKwBkwUh_YOx5HARTiLZ2sRVQkIrIzg6mZwMRA0rJOzMovbn_DB0Q_Mw742XGoL1a2cyFOWnkobp53qrYiKCohLk3BCimKMVYMv_qor6Q87dsIWZr3rade_xpKKQyFN3J4vSsvCZvZAd1CdGFkFVHlqCGDo_GQhiSlxbZ-hOZKHCm730DZF5DxrZsZzXgPbYXpKfCBxXHDDnSusL2eofSIG7xG4wT510wd0tknvxiLwThh0zY3YwhqupGyUnERSpoNI2Y4Ce8zjZttQ_HoVJod5nahnWp8rzd7ohdbjilbaJ4DSyCP3QlsDTvO05hF3JoP-87FjxaHrCTtKhQT5u3qx7ehW4HF7332vKHTEtuopl7UMlg1IrHB14BuotJutw3nQcZZAs64QWyka2SwLE-RpOq0JGMZFWt9-WBrtjeVpqF5REHiUUanAUldOlU5CCfa9zPH6ProHj0VkHl3eCFrKs-mZylTMMT4HNWWswajik8O6Ypzl3Yrc7XEMrfjd2orGZsB7P1J5v8-AaQSzbdSJfYMhskJU4g4x3EfLJGYcNlEWaUBSK9OgmbhubFs1LHb3tcrF6CZV82jxxUh2DDPUzhPLkHW-KR0LZxZoy4rzizRFnBzEidkHgZ_of4DsqMLCFXvaaTxn5yXpNyEJydV5X2VEv2o3pBPRy1UwWiwdWfVSgryycnRcEDOj5klylZ1S5ZBf7RcmEEmpzGps_uptLrPonYolEcKjoYzJwKHsoY32GmgKXrFVI5IpZroQ4lfKbES7fJAiXlFSi81V8o0EBrqcEAKOFKdvHgZitJ7a9YNqxr5eNqoDDnyOZS-NUveIl2Sd9442AcAT9Mu5KC6nnNON89fd1gZcL5EHs6QE1bzcPTCy7J1widKXorcFqyrohBr_NT72gGAoWSWNLGkwVlZWqgKQndamURUHIq3pcbz5WvH2Kl4tqbFQUWGx7AW0W13n3appdfQmweiEYo6kAwAL3gDkLon3gM50pKZi8CDR5MLIXGvzOJxBAdCQKOINVmgbvC0H2flsRjPsf3eYRzMF6VoD10vs4g76ZiBuCfRTRg4Z=w304-h253-no?authuser=3";
     break;
     case "16":
-    powder = "https://imgur.com/U2zjoia.jpeg";
+    powder = "https://lh3.googleusercontent.com/xwXOJ-uBsDnf4SbAvWQQgko1RX8jbiTWAHpQRFtfFxoq1TgU51_Lj7vx66GcA1cAgDlhJYHH8-YeDmmw50uUhbIFReWeTEi-TRYlj0FqdgImQDWLLRrASoKwBkwUh_YOx5HARTiLZ2sRVQkIrIzg6mZwMRA0rJOzMovbn_DB0Q_Mw742XGoL1a2cyFOWnkobp53qrYiKCohLk3BCimKMVYMv_qor6Q87dsIWZr3rade_xpKKQyFN3J4vSsvCZvZAd1CdGFkFVHlqCGDo_GQhiSlxbZ-hOZKHCm730DZF5DxrZsZzXgPbYXpKfCBxXHDDnSusL2eofSIG7xG4wT510wd0tknvxiLwThh0zY3YwhqupGyUnERSpoNI2Y4Ce8zjZttQ_HoVJod5nahnWp8rzd7ohdbjilbaJ4DSyCP3QlsDTvO05hF3JoP-87FjxaHrCTtKhQT5u3qx7ehW4HF7332vKHTEtuopl7UMlg1IrHB14BuotJutw3nQcZZAs64QWyka2SwLE-RpOq0JGMZFWt9-WBrtjeVpqF5REHiUUanAUldOlU5CCfa9zPH6ProHj0VkHl3eCFrKs-mZylTMMT4HNWWswajik8O6Ypzl3Yrc7XEMrfjd2orGZsB7P1J5v8-AaQSzbdSJfYMhskJU4g4x3EfLJGYcNlEWaUBSK9OgmbhubFs1LHb3tcrF6CZV82jxxUh2DDPUzhPLkHW-KR0LZxZoy4rzizRFnBzEidkHgZ_of4DsqMLCFXvaaTxn5yXpNyEJydV5X2VEv2o3pBPRy1UwWiwdWfVSgryycnRcEDOj5klylZ1S5ZBf7RcmEEmpzGps_uptLrPonYolEcKjoYzJwKHsoY32GmgKXrFVI5IpZroQ4lfKbES7fJAiXlFSi81V8o0EBrqcEAKOFKdvHgZitJ7a9YNqxr5eNqoDDnyOZS-NUveIl2Sd9442AcAT9Mu5KC6nnNON89fd1gZcL5EHs6QE1bzcPTCy7J1widKXorcFqyrohBr_NT72gGAoWSWNLGkwVlZWqgKQndamURUHIq3pcbz5WvH2Kl4tqbFQUWGx7AW0W13n3appdfQmweiEYo6kAwAL3gDkLon3gM50pKZi8CDR5MLIXGvzOJxBAdCQKOINVmgbvC0H2flsRjPsf3eYRzMF6VoD10vs4g76ZiBuCfRTRg4Z=w304-h253-no?authuser=3";
     break;
     case "17":
-    powder = "https://imgur.com/qRF8VHC.png";
+    powder = "https://lh3.googleusercontent.com/pLWNR75CO5arINthQ-FHOH3ewcy4IhtBTupbaTSJIBnFgzhjQ9Cv4_dvS7EDIuAT-bz_1kK7FfAOOw8qGk-sDM9GPwXWQD_zzUAydEE3EKv10Eg2i-WdDSXuDOWlTu55QwlDqOTSEfHvdW_YiQwB-q_IHZTbMk5GHbv8KffkpWE6dOSesnVRRAO539SImnY4ARO2oCsuQqAJR3sbwfj8My192OD1n5cJmN7lW6dok1r4nW5V932PpqP4i2Gbu4wc2Z7yjt3YTHI_UYUmTvWKge9AWVailX2tC7vX2BDWpGyJ9J8v-Ob2ONxt1m9fiNPjIdueqGBNB5baESKf9wIAwCqWpYrPpaCrVIwY-chc-quQMt37bwzg9gyJmvP4mEIwxKIw4Kiasg6HWW21WXm2G3UIQQyHXgQyvFp7cvGWcQJBBs9WTiUfDghaF9NPn9KbYh5fxKUIued4bLcgJUSVuP-Je7q7eGp6khe1Qgz596GCF1qWqrNHe5ZcOMwavSEIfXo3riq5Nz0GkwfyaZxm0eiyfleodjd481ZDvLPNH8-oJWxkX_lk5Euy3V48C6uaA3vfUzSK7EkWIevGHJBGXJCHBfg8JoE4SxhpD3XmWZd8ZvsSx6VbwQzzMaYQwT_ECNT2IFsuHdps3Cjcca2YVWYYVIZkRm_6_fudtIiC9DH3lofFYCdgE0McGmFxHhCx6yDpKsuZgc6mhOF6NG8Hrhou54DeDFY0rFE-YyZ8gXsAy0HegFJQa7264AoqwxBRRzjYzDFl0OH1WY6yh__JII0CZt4hWYsMcRUkn_e2Tp-Zay9pb47SDmgwWP1-2aM7v9MWYXWRuqezaFPByh4r366l6OyJnpH52zGPE3amYmX7Qiv_7Y5V33d20WgRfbEbRAYOhH8YFmItlDE7MCpeGYCEamJTRcL9pqlOWIXAryjyo9W6ZpEXZnA-t58-VyadyXnIdzs146VIw879l_dFK-z1Ug05nD3vUVNk7rXbSJgyk6L7C4pRXKKqaOwktZYNfuSYzlUOdEZwP3QBSKqKctJKQtKk4nsllmU-kBomCgzVQOhMyt7hWBkJ5PWw1WkHx5cElk8Y8SbKDj9tc1_YW7pSHmSv_2gKIoUA1b5ugx4XfS7taC6RrkXhAp6BXL3ezN6U9c7GabxtI1vVb0RqV-v07rkpSASwYaYvnpeh=w304-h253-no?authuser=3";
     break;
     case "18":
-    powder = "https://imgur.com/U2zjoia.jpeg";
+    powder = "https://lh3.googleusercontent.com/xwXOJ-uBsDnf4SbAvWQQgko1RX8jbiTWAHpQRFtfFxoq1TgU51_Lj7vx66GcA1cAgDlhJYHH8-YeDmmw50uUhbIFReWeTEi-TRYlj0FqdgImQDWLLRrASoKwBkwUh_YOx5HARTiLZ2sRVQkIrIzg6mZwMRA0rJOzMovbn_DB0Q_Mw742XGoL1a2cyFOWnkobp53qrYiKCohLk3BCimKMVYMv_qor6Q87dsIWZr3rade_xpKKQyFN3J4vSsvCZvZAd1CdGFkFVHlqCGDo_GQhiSlxbZ-hOZKHCm730DZF5DxrZsZzXgPbYXpKfCBxXHDDnSusL2eofSIG7xG4wT510wd0tknvxiLwThh0zY3YwhqupGyUnERSpoNI2Y4Ce8zjZttQ_HoVJod5nahnWp8rzd7ohdbjilbaJ4DSyCP3QlsDTvO05hF3JoP-87FjxaHrCTtKhQT5u3qx7ehW4HF7332vKHTEtuopl7UMlg1IrHB14BuotJutw3nQcZZAs64QWyka2SwLE-RpOq0JGMZFWt9-WBrtjeVpqF5REHiUUanAUldOlU5CCfa9zPH6ProHj0VkHl3eCFrKs-mZylTMMT4HNWWswajik8O6Ypzl3Yrc7XEMrfjd2orGZsB7P1J5v8-AaQSzbdSJfYMhskJU4g4x3EfLJGYcNlEWaUBSK9OgmbhubFs1LHb3tcrF6CZV82jxxUh2DDPUzhPLkHW-KR0LZxZoy4rzizRFnBzEidkHgZ_of4DsqMLCFXvaaTxn5yXpNyEJydV5X2VEv2o3pBPRy1UwWiwdWfVSgryycnRcEDOj5klylZ1S5ZBf7RcmEEmpzGps_uptLrPonYolEcKjoYzJwKHsoY32GmgKXrFVI5IpZroQ4lfKbES7fJAiXlFSi81V8o0EBrqcEAKOFKdvHgZitJ7a9YNqxr5eNqoDDnyOZS-NUveIl2Sd9442AcAT9Mu5KC6nnNON89fd1gZcL5EHs6QE1bzcPTCy7J1widKXorcFqyrohBr_NT72gGAoWSWNLGkwVlZWqgKQndamURUHIq3pcbz5WvH2Kl4tqbFQUWGx7AW0W13n3appdfQmweiEYo6kAwAL3gDkLon3gM50pKZi8CDR5MLIXGvzOJxBAdCQKOINVmgbvC0H2flsRjPsf3eYRzMF6VoD10vs4g76ZiBuCfRTRg4Z=w304-h253-no?authuser=3";
     break;
     case "19":
-    powder = "https://imgur.com/U2zjoia.jpeg";
+    powder = "https://lh3.googleusercontent.com/xwXOJ-uBsDnf4SbAvWQQgko1RX8jbiTWAHpQRFtfFxoq1TgU51_Lj7vx66GcA1cAgDlhJYHH8-YeDmmw50uUhbIFReWeTEi-TRYlj0FqdgImQDWLLRrASoKwBkwUh_YOx5HARTiLZ2sRVQkIrIzg6mZwMRA0rJOzMovbn_DB0Q_Mw742XGoL1a2cyFOWnkobp53qrYiKCohLk3BCimKMVYMv_qor6Q87dsIWZr3rade_xpKKQyFN3J4vSsvCZvZAd1CdGFkFVHlqCGDo_GQhiSlxbZ-hOZKHCm730DZF5DxrZsZzXgPbYXpKfCBxXHDDnSusL2eofSIG7xG4wT510wd0tknvxiLwThh0zY3YwhqupGyUnERSpoNI2Y4Ce8zjZttQ_HoVJod5nahnWp8rzd7ohdbjilbaJ4DSyCP3QlsDTvO05hF3JoP-87FjxaHrCTtKhQT5u3qx7ehW4HF7332vKHTEtuopl7UMlg1IrHB14BuotJutw3nQcZZAs64QWyka2SwLE-RpOq0JGMZFWt9-WBrtjeVpqF5REHiUUanAUldOlU5CCfa9zPH6ProHj0VkHl3eCFrKs-mZylTMMT4HNWWswajik8O6Ypzl3Yrc7XEMrfjd2orGZsB7P1J5v8-AaQSzbdSJfYMhskJU4g4x3EfLJGYcNlEWaUBSK9OgmbhubFs1LHb3tcrF6CZV82jxxUh2DDPUzhPLkHW-KR0LZxZoy4rzizRFnBzEidkHgZ_of4DsqMLCFXvaaTxn5yXpNyEJydV5X2VEv2o3pBPRy1UwWiwdWfVSgryycnRcEDOj5klylZ1S5ZBf7RcmEEmpzGps_uptLrPonYolEcKjoYzJwKHsoY32GmgKXrFVI5IpZroQ4lfKbES7fJAiXlFSi81V8o0EBrqcEAKOFKdvHgZitJ7a9YNqxr5eNqoDDnyOZS-NUveIl2Sd9442AcAT9Mu5KC6nnNON89fd1gZcL5EHs6QE1bzcPTCy7J1widKXorcFqyrohBr_NT72gGAoWSWNLGkwVlZWqgKQndamURUHIq3pcbz5WvH2Kl4tqbFQUWGx7AW0W13n3appdfQmweiEYo6kAwAL3gDkLon3gM50pKZi8CDR5MLIXGvzOJxBAdCQKOINVmgbvC0H2flsRjPsf3eYRzMF6VoD10vs4g76ZiBuCfRTRg4Z=w304-h253-no?authuser=3";
     break;
     case "20":
-    powder = "https://imgur.com/CVXZRh9.jpeg";
+    powder = "https://lh3.googleusercontent.com/r_Pl5ojoEX7d7RacDAU7xHyZF_i2yFU0dDV3-IgQwTV-l8eRxFheskss94uWdTmjjgCtRTy0Y6a6EQg640fmJIgeeUv0P5V9jXVE_6Ti2hmiHqWJOY7GWDlW1yWfYdSRt_P6lQXccimGhc7k49Um-N7Vdxtex2B7sgOZCF4V1k_IJoiD6DQBxB5fcQRLZsQLQKp9Ne5zuzCWNCfIjzlW9zYN_q_6EMvrCfmhJN6vq4Qak-xAMRl_uHGichlPivGNvik9j8XHhiancyXlU0wLI0BSFu03JPtoIqm1iKYOSvY3U-4lMwDJ8jGjp5OtpUMvY6PFQt2HyqXLnrGcNag7XwMiHaVUBmHsuoxpDdTLAbDoZv0kDkU3NYhjHVOn0wSwof3Jo6PBeBm77PQIKm2GrQ6stY0UIkRSEtgwh1DgtkuB8ngUroDF05iODM8EI7JOAm8Aw8j7ZGYvJ3OP6YlAWK5fBNND-nvABhubWSW2J0KgOsvqqlrnEONObENjqbw8ip8hvZwJ_OJOeSgc5XpVuf9pZ_rM8hr3hQw6zCShtnaZqd1ucbdjFSnWOHq1WxS1gEfGvC5QyHTwnbjEutZGGAKUxjM6DTTHbHRWRr4BzY44vBMBIL4P5w4OBzP5q1O4myJMG_uvQzVLrNQ7eQLZX4DKYrA3MIWvokRRkPkr50Tj8pX0DfcnE6Tmk9BGhx2zIyspUb-MExNvRj2Ke-DnrFZG5l2TK5PHrXs2_-LnoQOIaDARMH_Pr3pW6XuxhNOxiehm75C3Hwfl-j5hmveT79Q39h2-sASPxmlVcbkV0fxoNRSCtjtRrsHKD2osan3LwmrSd8K6V-U3TieQKOfajnRxxbHrAovn_aE25SeQR4-dpROj2HlLDVlKRWgNqjohY1XnX6-ZY7NgR4wYfmIPEyQ4s3FMuCn0VGE9-7JhxUxkaIR5ZXaPY7gymAMFaNc8TtJkmE_BkeOHDeYdG-nfzK60Xli-8mElgxAVNG3k7KqunOqqZvjuWvOnnb7skfO8csJ7B3wvyWqGf-PBi-IrAKyrk4vI9hlLRJxbi3M4NBBbg-PDyidMyE6a9MEEkxZ7jg1vetDVPSWC--NDa2Y7j0F8v-AS_QvYHmFrb31LSSv84LPb2XUV4LLFFsM4Tb5RlT9KKzlZnWVB9EmiVaOxWkxOarLqSs3_F19wB-jh=w341-h295-no?authuser=3";
     break;
     case "21":
-    powder = "https://imgur.com/i7pMsoh.jpeg";
+    powder = "https://lh3.googleusercontent.com/46JFWpFrBL4yfubcuTRzsoHNM9bq9vIujKhXsRbgHPwtdkT7H8oegjix5tYVfePRM_9eug5kWo09bxQwWzhVuT2fSr4Fm4QerkLBjy9eE4WVYdbWAw-5Vc1yyNYn-CeA3KR7uxgDUG4SDf4Ghf9qHCMDS1b9lau2Of6aG8nkMd4vYvhqmeqcBhMSy5ZFZ1VjZWwCjaGA6J6LVEOtoHrd1KRcISuxpg8ucY6ToXm7KlAAJh-JaJezQGsxuPyrz4pacLGLxBYBzNhJ2DCBOz966hpaioMf6yuKaQ49HBzipqHPtGmSc-IhWjMNONJLG3w10ALfiKfoMhJwgey7QjZ4elwhjq4rqhnvsqSRuJ1-rAv8qXMqZK_tOtMYjuP5-mo-1yjeSeohu1OxyfyprOkcVlI3EWVu5ldKhjvCY8HXZXeqxCyfeOwKmjWBfEVm-5U4uA-4-vFHbpq3CFuFI2seRlO_ibiwHVaayNT8XVmDPTHAL6Ads3Lg_yebvLfvvqtsWTfoolrSPL2GwFHuLHfg2Kr50d0tJj7W9rExfpPLIve_D2nYcAf_PlRPk08nlZUePsfApxL1tr0-pjXAapBU0gS0aeTzLt74yR4jB4EvefVhNN8lno2FcOvq8waQwKNjzkfycMBpZvj1L-udOu95FHGuExCk0dB-EMhFAFAYNQR3FgzA7L17l9jaxx2PkPRRCMjpSfxOnRUhidNQF1snSH330wM1OAKle2J_5I7E5lykdGwzgQFVEC07G31WyuqF2A8g0eNe-kAr9gGSghVwDCxNxppJ9_cQzwlEg6R4UH2EcyXtDZdp2XIO1NKs1qOEgf2Hceqgu6MAYzDaVYjC_XbTm3J6fUDHE5QZs-fQfveyODioRKol1xvBfkRbX2I5F7DDcEZwr0kO6kRl3DZNw90oM1qoaw5hgXuKHx97P9Iw0GJ6YNtcrHAKLkdiPu3Xer7tCXRTs_9xxtrSGdNWDe4ycHMGRVI4N9PAnYhqn9WINLFdQge9xn9IO6FMG7VzKM60zlXoWNpD8qoMOsWqzJcdj9HyWbke3nbek9rIxrDfCupAHwOMRewLBLFUEtUAHk7dtGbcGAOq0U29AyHlBmcZhBWHyopD3Io92dpVqS8yShySdaXo8JnUdla81Xx3w4_l4Miz4oYFXuhApQ6G3Z4iKNLGAfDUPrg6vdTw=w220-h155-no?authuser=3";
     break;
     case "22":
-    powder = "https://imgur.com/MGc2ojF.jpeg";
+    powder = "https://lh3.googleusercontent.com/_mXUzaJ8B4-jNthV4dMHwJOX8DIQGpzYDF5O2AltH4bOlJ-BG5k37qJ9BCN-X4PQF7TZoGExStZMvbeuY7UDCTCGvkZQllvDqkYVtiw1qHN7kjjphRYGHL77JzH2P7G7ChS6vSQaFf1a0h8ABHbHqiTik2e1542jmyxqqj_T2Kcic7tu7RGqyMvxqY73ECP6HFNzHklIf7JqIZG-1FwR0A1ZmWqR-7vMu31lfKeY1CNFO5iBwZNQhodUclMFrDqJxzIQY4eCiPGY7BU9kapl6lrPKzVNg7CsbZoSGghME4kddHwpnajnOKyt9aRRDB7tbfYI9o2az6opJ3xnlOBJFq_0i-IDzX_nnRwYyZ9h4_ng8U9FZdm6fuY8Cf9jvei69XoVGjRUb42w_JwV4FlrrI0vUc4qdVIipO7C8rY0mABnYME1KFcQuFKpIQwNMo6YRMteb3tn1TFufxjDPl-zR1FiXu4hprlBHJ-KwaNlVWsLOZnNCnNi9PvkMoGRq3xH3dQCsg2FoJ2eog5E5j3ewVQd9acHjGTzMxy5e3C6_qf5j4kUb3WJWqU0jJwKMwRoEx9QeajydhdjaRFcby9K19ELq9BhkDOUPcL_aSGi-rbL5gGO0I7tMyKTC1IHUio3PdaFFPhZynrRY6dN85h0CDGTRON80VzuXe0vB97bLmXvpk3PW6Ce7Ijv13XxbzHwX_ipgG0qj-N5RrvUORCghd9a7NQQ-BwOzMSTRwOFs2TskXqL3q5dg1egruwMC0cfi6E2DzF2ZxDh9Z7kjzu2RYBVWmUA_qIax2x6xZU_XhN9dcIYUbaXstaJ6wycu7myX58oRzdgSgnB6tnKmRxT4ss1UasSs72cdqZ8IPvsIBwAb6gQzRVEVvCPjObdlHgGqMQO-XeOFRUS77VmMwdukIAsKpvAD_p3LCqowUMubCudgL4AfcgAOC9KlFp3dvv3Tn6bEm5u1dd5pqiHAx9lEBOQBs2truI0HT8OFYQLf56rpE-ytfzwjS5ZU7GcBNpKyAH8IaWrFbp1ub3ldI1_9MNPtCGi4JlU6e0FJKFafujvEB74qkoKuuHIROtp_AyjAVV2IhCDp489BlWEwoUBuiOGWbNyzB7O8GkyRx_BSx1030lQokrt-WuyzcdJzWFyTKLHTg0NFdctW3yfv0nZmFjgis28X6CyQWJ7nYnP=w994-h657-no?authuser=3";
     break;
     case "23":
-    powder = "https://imgur.com/rTxpbxJ.jpeg";
+    powder = "https://lh3.googleusercontent.com/OCObYa3w0qXZt1iuRz10sPBBKbA0H2cy_Ig7Foedi8Hzh1i5LkDixKHTV02AJ-ioLRbGCNi_Rbd2J_ivJjIcxay0XiFU8cYm_Mhm0jGY8dycheMypWbWhLiDIbB4tQdhS9lkdqXWTnA9iXVzHnCZy20pJbi74rbbxiWr3goJiN7rbLqvY4dWTmIR7iJBJhF9CgLGH97vwYDicvKYDLeBoBqdRDf1yAP9EouDVz-IkBcjczULL2B3j9tiXIDsAOgiUY25V2xjocDQ4i8qVwkFhLN8afHJypleEGrE_mjGegwSCnEjwp90hMm-bY-jsgcBYQE0wQrUnsyN25AFeR2C9MsTHNtKJmDkWXYBdBkrrS2C6gyVUrRZu9vZBykWCIeCwxoQ8AqMtdBaY-qORRmAJK04EazCRhpbCU0Iud_0TfvgBXq-JCjxETVdKfJ_jvxN0Ax1FASICRQh7JEk0hjtBTDMyaF8CjPx8WdYKaAQxFBaU9rVhWpUqPYIG7PxUuPC_tZxOkikJ5vkLQaxWFRlLKPxhZjXx562H5vWClIphUzhAPLIP4YN24qQ0v6ZAHAUM2i_fZ5NGnQo8HQ2K2CF2J2gwAwg27gSAx64xDfZbAvaE19Wm4WbrU7mugvGYsOQzzAKaA59ulRls_GmUR__KQosupkCSy65S3VlXDBEUfSj_QNQ10n5163Xn5MSLzFPgYZc53qKr6GZPQM9SwQOnaT7pR_mZ0SiUzAZRnz1FxV5EW8O63Wt_0O4v0ZIMgxufPuUt_Hgn9ARn2edFQwQiyFztLx_doe--KWWERdaxiPaiAIFuHJxBY612F53a50DVfIMrUpr1IJgADZgcS10HHXoh5He8x6uA4YsFMDTvEKCdUU5zVJ5j8-nhbSeyUkrX6ewjMlxh39GWlxUDNG-5OozScjmCGp8PuDXXRYx_F7j8vTSns8ii6NQb_77hmq9em1Phge5PxmayRW1RbMk4hEW_iYEIVJNt9Uct_VOUn-C7OesitJyRnezZMXqPxPyoz8-QI09XB5N2f4Da9pody77fO9qP7_49giR0voBFGuILiC1hdRom5RBMHocv45VhBAVI9FOhjvtIY9L0OBEMOlqft4CfQuX3TgrxqWOFcRDpkzdXFLPrrYC0Hu_tT3SmchJ3sVPkQONAlqqlKTC5kzAHQnt0AJ9uKHpu0wQ=w508-h339-no?authuser=3";
     break;
     case "24":
-    powder = "https://imgur.com/ddYsOHB.jpeg";
+    powder = "https://lh3.googleusercontent.com/6hlwxltychJkzIMEiabvDlnvi5LBOZ7EidYaMLfgfJOGlQut9LIF7EwAZ2RUJl6JLsawhucNd5_2sDcMmYShDw89QW-HPnnA0pv7NKIPAdJG5zBP56j8PB9HAboG0aBn35DmbQfeS2zYqZiSuQlku-JVdHmMu65uIdkJtq-gY6gj1GSGL-pWZC1ivkfQMbNb4haYe9Ai7ZBno4AORVjK93k03xAGng3vxQp6DqLa0AfCQRC_qXP-CwJxPWWEFXb9oD0jnK95PsPtTncQoGafHMfFwqxyp3O5j2MlAFhv49swDREod-ZfgQrd7Cq_vu73QTwVC1z9v_X1x1V20sp3TTmx4BEIJoCAbGTTfX8AGMB8Ieu0wZXf_2LMv3uIP1lmed-WTUxdWvWlEjlOMflq1-TTnNSTTFcLXjy773iLRyIOkbPwxPy9hTv-mTK2vki0Ko9a5XHVyAf8yxypjDakTvet2uv17ryaBWxhPhoHCQ8uBUIVoHSLMRe4HjCPY641kos9f0fb8RZ2X9ODYBKAsU144hN4Q7RqrIFMtdwzNUswSZsafrjLxNjwM0J-ufqygJA_VybzVzuH0reVe9sB12lAMmjAHmEAZ3sZVoZyeYzMetAIupGfvEYrXMl5eeR3-rGs7Bqcrs_SrGoFuT-vkasNSen57x3Y0v-gr1mBhBV2AsT-TUqvAZjVftnjoUSCtssM-VCe0Mz_dyKmPQEKn9QH3bpxES3DD-rsP5NN41KpZu9GQH8adI2DLcN36O0c6OMiQ1RBbZxLoTSlJ_vaOiA-6Jfgewzx81QmpGYFd_GEQhddKZrgziuvsUpNXcgxbafgou5pqG_h8hm7NcJO_UUeKhLxhOdhVN8dcGGlRLDScJHy8UxqUwykeBICpeieKeDoTP3uHxEzbptMQMhHcEyWoPk14AbQho5FgMSjEbhND4yLwHmzQWDoUK6kLELn5hqPxAmDHvnyCPp6Z6pGlPP-EyQWY7tfCMGFDovnDMeh7bVSW35brAv3G1H_wvJGsEohyC55jtk6Fa9Crwy2IbOc9j_H4SqWNbGMJIueU2HR_9F5FrkuEAkxmOGq6IunAwRX7sUWJmBkLcN8KUS9rsCwse_nb1GEmuikkNz9glNUoNo0l1FapSmN_9in0BibC4KCmXJEBsIBveS-gC2i07UR5e4L6FUI5dxrzDVG=w1280-h688-no?authuser=3";
     break;
     case "25":
-    powder = "https://imgur.com/3UBfdJw.jpeg";
+    powder = "https://lh3.googleusercontent.com/akyqQyHnauLCoQS-V8BuUe7FTKHnKSRF8u93mB_w-iTFYkuabaUJnnGH8RuhNDV1I9QzG7wFODeNCrFnllIAqJ9zWXuBB8W8gEeUGEcTWR1S5xPxqipHqd2rhxo8Tboz0W-C1yW5K_9dK5L77MfRkoyy6dHCI371Re1dTyD9qsFd0lDacmThGOUohHvYboBdGlDYxz4D2xgVLa4OGdPVyl3u0ZkbRgsmwermG5jYV2x519LDyEYV4OTTeGZUKO8YkXsCwSFpfcQuBFAJm0WF163upL-4mhGEIhzoR4Aye8mS-egkWzYWytHB0tGNyOOE7yvqZ7CBjMCX8zHETQFyDAeTfxes3rw6IMseP4Dtf-ECAG0WWeH3t_gsyPJ2L_RoWZPkEOisw5lELOUB9o0UY4XQnqTmSXX-HMVYoYA0Xq2HDNOU9MvVIc6IADN-z8kly3DIOvtch7DiSCur1jAV8zKg1NdG7NcGkbhhGVFtAL4iWkd_GFvH6HytkVNCU_Uh-0O0JUXWb6c9yw-4uGWmAffzJmeJY9U5NOjMG9aCACAiQUj-iG0fgtFYTfvGadlEpdBdVZfYjwb97E2Oul6-rskE0VTp2Zp8wbmmIe51-bQJhDrBV9Tz4wJ7qtJMWVxRIktdIqlItimX9pob0SM3dxMLDqMUJsx3Zg7nwZVdUZJ6gyKny1vANZW2AWcVLEXMkF72zIDPBNeKVrJqoRFsVPEjVmUszpiCTkepZ9d4ptcDPa7zyNcKd9lt5q33CQRMGPJ8nQJI_HgHLCVYNnP0WTPWJAEjOHT0N2JP23qqzO6nmaGBTYAkLdFn-VBIPcF0nScA8VzLfFkqevYqZb4Ewxz7hjRDc435t6b9cJEG5BH5WIRIUsatJ_7RfF1_pfw6wNiz-UMXJ_cEaJOlmM5EVgKJJaVcQKT6BELW-LkwJbkBaorqtxBeVU9x7j5CxkNamc-1LK2b4PzKeMj2xdY0v6QIvASDrWHLhHr-ZfbzwZbh_v64FmMptifecahuOCJzdXXU9RsH65igc6OXDHuIHzxvK_UvGCHXI30Rs1tqmUt5IWPQwNU-m2rIK2FTN5yCS89XD2FqlD-iiYEpSJhs2LXBKH0aSHiZMnBN0SqhNpLBOQdtT_N3CLzsOJfFSLC81U6MBBkucBjd2vZTjU6g7e3_EulwNteAuWRuRblS=w300-h208-no?authuser=3";
     break;
     
 }
